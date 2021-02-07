@@ -46,11 +46,12 @@
     // Initialize scripts that require a loaded page
     $window.on('load', function() {
         // Page loader & Page transition
+        console.log(plugins.preloader.length);
         if (plugins.preloader.length && !isNoviBuilder) {
             pageTransition({
                 page: $('.page'),
-                animDelay: 500,
-                animDuration: 500,
+                animDelay: 10,
+                animDuration: 10,
                 animIn: 'fadeIn',
                 animOut: 'fadeOut',
                 conditions: function(event, link) {
