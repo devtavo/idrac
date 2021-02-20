@@ -7115,7 +7115,7 @@ html:not(.lt-ie10) .not-animated {
     height: 100%;
     width: 312.5px;
     transform-origin: 50% 0;
-    animation: move 1.5s cubic-bezier(0, 0, 0.5, 0.85) infinite;
+    animation: move 0s cubic-bezier(0, 0, 0.5, 0.85) infinite;
 }
 
 @keyframes tri {

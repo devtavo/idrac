@@ -47,11 +47,12 @@
     $window.on('load', function() {
         // Page loader & Page transition
         console.log(plugins.preloader.length);
+        console.log(!isNoviBuilder);
         if (plugins.preloader.length && !isNoviBuilder) {
             pageTransition({
                 page: $('.page'),
-                animDelay: 10,
-                animDuration: 10,
+                animDelay: 100,
+                animDuration: 100,
                 animIn: 'fadeIn',
                 animOut: 'fadeOut',
                 conditions: function(event, link) {
