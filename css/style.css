@@ -1,12 +1,6 @@
 @charset "UTF-8";
-.selector {
-    /* definir una altura pequeña para forzar el scroll */
-    height: 100px;
-    overflow-y: scroll;
-    width: 300px;
-    /* cambiar el estilo por defecto de la barra de scroll */
-    scrollbar-color: yellow #800080;
-    scrollbar-width: 10px;
+div {
+    border: solid 1px red;
 }
 
 
@@ -193,7 +187,7 @@ h1,
 @media (min-width: 1200px) {
     h1,
     .heading-1 {
-        font-size: 130px;
+        font-size: 75px;
     }
 }
 
@@ -7467,7 +7461,7 @@ html.tablet .ui-to-top {
 
 .rd-navbar-static .rd-nav-item.focus>.rd-navbar-submenu-toggle,
 .rd-navbar-static .rd-nav-item.opened>.rd-navbar-submenu-toggle {
-    color: #6046b6;
+    color: #002757;
 }
 
 .rd-navbar-static .rd-nav-item.active .rd-nav-link {
@@ -7482,7 +7476,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-static .rd-nav-item.active>.rd-navbar-submenu-toggle {
-    color: #6046b6;
+    color: #002757;
 }
 
 .rd-navbar-static .rd-nav-item.focus>.rd-navbar-submenu-toggle::before,

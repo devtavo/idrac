@@ -651,7 +651,7 @@
         if (plugins.preloader.length) {
             loaderTimeoutId = setTimeout(function() {
                 if (!windowReady && !isNoviBuilder) plugins.preloader.removeClass('loaded');
-            }, 2000);
+            }, 1);
         }
 
         // Add custom styling options for input[type="radio"]
@@ -768,7 +768,7 @@
                     if (url = $this.attr("data-slide-bg")) {
                         $this.css({
                             "background-image": "url(" + url + ")",
-                            "background-size": "auto"
+                            "background-size": "cover"
                         })
                     }
                 }
