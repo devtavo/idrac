@@ -6871,13 +6871,14 @@ html:not(.lt-ie10) .not-animated {
     top: 0;
     bottom: 0;
     right: 0;
+    visibility: hidden;
     z-index: 10000;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 20px;
     background: #ffffff;
-    transition: .3s all ease;
+    transition: .0s all ease;
 }
 
 .preloader.loaded {
@@ -6937,7 +6938,7 @@ html:not(.lt-ie10) .not-animated {
 }
 
 .triangle:nth-of-type(1) {
-    animation: tri1 1.5s linear infinite;
+    animation: tri1 0s linear infinite;
 }
 
 @keyframes tri1 {
@@ -6953,7 +6954,7 @@ html:not(.lt-ie10) .not-animated {
 }
 
 .triangle:nth-of-type(2) {
-    animation: tri2 1.5s linear infinite;
+    animation: tri2 0s linear infinite;
 }
 
 @keyframes tri2 {
@@ -6969,7 +6970,7 @@ html:not(.lt-ie10) .not-animated {
 }
 
 .triangle:nth-of-type(3) {
-    animation: tri3 1.5s linear infinite;
+    animation: tri3 0s linear infinite;
 }
 
 @keyframes tri3 {
@@ -6985,7 +6986,7 @@ html:not(.lt-ie10) .not-animated {
 }
 
 .triangle:nth-of-type(4) {
-    animation: tri4 1.5s linear infinite;
+    animation: tri4 0s linear infinite;
 }
 
 @keyframes tri4 {
@@ -7001,7 +7002,7 @@ html:not(.lt-ie10) .not-animated {
 }
 
 .triangle:nth-of-type(5) {
-    animation: tri5 1.5s linear infinite;
+    animation: tri5 0s linear infinite;
 }
 
 @keyframes tri5 {
@@ -7017,7 +7018,7 @@ html:not(.lt-ie10) .not-animated {
 }
 
 .triangle:nth-of-type(6) {
-    animation: tri6 1.5s linear infinite;
+    animation: tri6 0s linear infinite;
 }
 
 @keyframes tri6 {
@@ -7033,7 +7034,7 @@ html:not(.lt-ie10) .not-animated {
 }
 
 .triangle:nth-of-type(7) {
-    animation: tri7 1.5s linear infinite;
+    animation: tri7 0s linear infinite;
 }
 
 @keyframes tri7 {
@@ -7055,7 +7056,7 @@ html:not(.lt-ie10) .not-animated {
     height: 0;
     border: 31px solid transparent;
     border-bottom: 54px solid #030631;
-    animation: tri 1.5s linear infinite;
+    animation: tri 0s linear infinite;
 }
 
 .triangle:nth-of-type(1) {
@@ -9558,6 +9559,7 @@ html.rd-navbar-fixed-linked .page {
     margin-left: -21px;
     margin-top: -21px;
     z-index: 10;
+    visibility: hidden;
     transform-origin: 50%;
     animation: swiper-preloader-spin 1s steps(12, end) infinite;
 }
@@ -16773,7 +16775,7 @@ body {
     justify-content: center;
     -webkit-box-align: center;
     align-items: center;
-    background: #275efe;
+    background: #fff;
 }
 
 body .dribbble {

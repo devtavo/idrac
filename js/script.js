@@ -51,8 +51,8 @@
         if (plugins.preloader.length && !isNoviBuilder) {
             pageTransition({
                 page: $('.page'),
-                animDelay: 100,
-                animDuration: 100,
+                animDelay: 1,
+                animDuration: 1,
                 animIn: 'fadeIn',
                 animOut: 'fadeOut',
                 conditions: function(event, link) {
