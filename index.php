@@ -141,9 +141,9 @@
                                         <li>
                                             <a class="icon mdi mdi-instagram" href="https://www.instagram.com/idra.capacitaciones/"></a>
                                         </li>
-                                        <li>
+                                        <!-- <li>
                                             <a class="icon mdi mdi-google-plus" href="#"></a>
-                                        </li>
+                                        </li> -->
                                     </ul>
                                 </div>
                                 <div class="rd-navbar-main">
@@ -170,7 +170,7 @@
                             </div>
                             <div class="rd-navbar-project">
                                 <div class="rd-navbar-project-header">
-                                    <h5 class="rd-navbar-project-title">Contenido 4 </h5>
+                                    <h5 class="rd-navbar-project-title">Programas Destacados </h5>
                                     <div class="rd-navbar-project-hamburger rd-navbar-project-hamburger-close" data-multitoggle=".rd-navbar-inner" data-multitoggle-blur=".rd-navbar-wrap" data-multitoggle-isolate="data-multitoggle-isolate">
                                         <div class="project-close"><span></span><span></span></div>
                                     </div>
@@ -264,7 +264,7 @@
                                     <h2 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInUp" data-caption-delay="0">SIGUENOS EN NUESTRAS
                                             REDES SOCIALES</span></h2>
                                     <p class="big swiper-text" data-caption-animate="fadeInLeft" data-caption-delay="300"> </p>
-                                    <a class="button button-lg button-primary button-winona button-shadow-2" href="#" data-caption-animate="fadeInUp" data-caption-delay="300">Informes</a>
+                                    <a class="button button-lg button-primary button-winona button-shadow-2" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" data-caption-animate="fadeInUp" data-caption-delay="300">Informes</a>
 
                                 </div>
                             </div>
@@ -291,10 +291,10 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-8 col-lg-12 offset-lg-1 offset-xxl-0">
-                                    <h2 class="oh swiper-title" style="color: black;"><span class="d-inline-block" data-caption-animate="slideInDown" data-caption-delay="0">Diplomados y<br>
+                                    <h2 class="oh swiper-title" style="color: black;"><span class="d-inline-block" data-caption-animate="slideInDown" data-caption-delay="0">Programas y<br>
                                             Cursos <br>de Derecho</span></h2>
                                     <p class="big swiper-text" data-caption-animate="fadeInRight" data-caption-delay="300"> </p>
-                                    <div class="button-wrap oh"><a class="button button-lg button-primary button-winona button-shadow-2" href="#" data-caption-animate="slideInUp" data-caption-delay="0">Informes</a></div>
+                                    <div class="button-wrap oh"><a class="button button-lg button-primary button-winona button-shadow-2" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" data-caption-animate="slideInUp" data-caption-delay="0">Informes</a></div>
                                 </div>
                             </div>
                         </div>
@@ -320,7 +320,7 @@
 
         <section style="background: #F0F0F0; padding: 15px;">
             <br><br><br>
-            <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown">Diplomados</span></h3>
+            <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown">Programas Virtuales</span></h3>
             <div class="row">
                 <div class="col-md-12">
                     <div class="row">
@@ -329,10 +329,10 @@
                             <br>
                             <br>
                             <br>
-                            <div class="inner_items_section_carrusel" style="padding-left: 90px;">
-                                <h5>Programas virtual grabado</h5>
-                                <p style="text-align: justify; padding-left: 50px;">Organiza tu horario y ritmo de estudio de acuerdo a tus posibilidades. Podrás visualizar en vídeo todas las clases que desarrollarán los expositores, además podrás acceder a las dispositivas, enlaces de interés e información relacionada del programa.</p>
-                                <div class="btn_and_arros mt-35" style="text-align: justify; padding-left: 50px;">
+                            <div class="inner_items_section_carrusel" >
+                                <h5 class="programas">Programas virtuales</h5>
+                                <p class="programas">Organiza tu horario y ritmo de estudio de acuerdo a tus posibilidades. Podrás visualizar en vídeo todas las clases que desarrollarán los expositores, además podrás acceder a las dispositivas, enlaces de interés e información relacionada del programa.</p>
+                                <div class="btn_and_arros mt-35 programas">
                                     <br>
                                     <br>
                                     <a href="#" class="btn-vertodo">Ver todos</a>
@@ -769,7 +769,7 @@
         </section>
         <br>
         <br>
-        <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown">Cursos</span></h3>
+        <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown">Cursos de especialización</span></h3>
         <br><br>
         <section>
             <div class="row">
@@ -780,10 +780,10 @@
                             <br>
                             <br>
                             <br>
-                            <div class="inner_items_section_carrusel" style="padding-left: 90px;">
-                                <h5>Programas virtual grabado</h5>
-                                <p style="text-align: justify; padding-left: 50px;">Organiza tu horario y ritmo de estudio de acuerdo a tus posibilidades. Podrás visualizar en vídeo todas las clases que desarrollarán los expositores, además podrás acceder a las dispositivas, enlaces de interés e información relacionada del programa.</p>
-                                <div class="btn_and_arros mt-35" style="text-align: justify; padding-left: 50px;">
+                            <div class="inner_items_section_carrusel">
+                                <h5 class="programas">Programas Virtuales </h5>
+                                <p class="programas">Organiza tu horario y ritmo de estudio de acuerdo a tus posibilidades. Podrás visualizar en vídeo todas las clases que desarrollarán los expositores, además podrás acceder a las dispositivas, enlaces de interés e información relacionada del programa.</p>
+                                <div class="btn_and_arros mt-35 programas" >
                                     <br>
                                     <br>
                                     <a href="#" class="btn-vertodo">Ver todos</a>
@@ -1300,11 +1300,10 @@
                     <div class="row justify-content-end">
                         <div class="col-sm-8 col-md-7 col-lg-5">
                             <div class="cta-modern">
-                                <h3 class="cta-modern-title wow fadeInRight" style="color:#06206d;">DIPLOMADO</h3>
-                                <p class="lead" style="color:#06206d;">DERECHO DE FAMILIAR Y PROCESAL FAMILIAR</p>
-                                <p class="cta-modern-text oh-desktop" style="color:#06206d;" data-wow-delay=".1s"><span class="cta-modern-decor wow slideInLeft"></span><span class="d-inline-block wow slideInDown">Desde el 26 de Enero al 11 de
-                                        Febrero</span></p>
-                                <a class="button button-md button-secondary-2 button-winona wow fadeInUp" href="#" data-wow-delay=".2s">INFORMES E INSCRIPCIONES</a>
+                                <h3 class="cta-modern-title wow fadeInRight" style="color:#06206d;">CURSO</h3>
+                                <p class="lead" style="color:#06206d;">DERECHO REGULATORIO</p>
+                                <p class="cta-modern-text oh-desktop" style="color:#06206d;" data-wow-delay=".1s"><span class="cta-modern-decor wow slideInLeft"></span><span class="d-inline-block wow slideInDown">Desde el 31 de Marzo </span></p>
+                                <a class="button button-md button-secondary-2 button-winona wow fadeInUp" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" data-wow-delay=".2s">INFORMES E INSCRIPCIONES</a>
                             </div>
                         </div>
                     </div>
@@ -1329,7 +1328,7 @@
                             </div>
                             <div class="product-button">
                                 <div class="button-wrap">
-                                    <a class="button button-xs button-primary button-winona" href="#"> Inscripciones</a>
+                                    <a class="button button-xs button-primary button-winona" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank"> Inscripciones</a>
                                 </div>
                             </div>
                         </article>
@@ -1345,7 +1344,7 @@
                                 <div class="product-price">S/ 99.00</div>
                             </div>
                             <div class="product-button">
-                                <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Inscripciones</a></div>
+                                <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank">Inscripciones</a></div>
                             </div><span class="product-badge product-badge-new">Promoción</span>
                         </article>
                     </div>
@@ -1360,7 +1359,7 @@
                                 <div class="product-price">S/ 99.00</div>
                             </div>
                             <div class="product-button">
-                                <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Inscripciones</a></div>
+                                <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank">Inscripciones</a></div>
                             </div>
                         </article>
                     </div>
@@ -1376,7 +1375,7 @@
                                 <div class="product-price">S/ 99.00</div>
                             </div>
                             <div class="product-button">
-                                <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Inscripciones</a></div>
+                                <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank">Inscripciones</a></div>
                             </div><span class="product-badge product-badge-sale">Promoción</span>
                         </article>
                     </div>
@@ -1644,11 +1643,11 @@
                             <h5 class="footer-modern-title oh-desktop"><span class="d-inline-block wow slideInLeft">IDRA Capacitaciones </span>
                             </h5>
                             <ul class="footer-modern-list d-inline-block d-sm-block wow fadeInUp">
-                                <li><a href="about-us.html">Aula IDRA </a></li>
-                                <li><a href="#">Nosotros </a></li>
+                                <li><a href="https://aula.idra.pe/login/index.php" target="_blank">Aula IDRA </a></li>
+                                <li><a href="nosotros.php">Nosotros </a></li>
                                 <li><a href="#">Programas </a></li>
                                 <li><a href="#">Promociones </a></li>
-                                <li><a href="#">Contacto </a></li>
+                                <li><a href="contacts.php">Contacto </a></li>
                             </ul>
                         </div>
                         <div class="col-lg-4 col-xl-5">
@@ -1687,7 +1686,7 @@
                                 <div class="footer-modern-contacts wow slideInUp">
                                     <div class="unit unit-spacing-sm align-items-center">
                                         <div class="unit-left"><span class="icon icon-24 mdi mdi-phone"></span></div>
-                                        <div class="unit-body"><a class="phone" href="tel:#">+51 916 611 364</a></div>
+                                        <div class="unit-body"><a class="phone" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" >+51 916 611 364</a></div>
                                     </div>
                                 </div>
                                 <div class="footer-modern-contacts wow slideInDown">
@@ -1708,9 +1707,9 @@
                                         <li>
                                             <a class="icon mdi mdi-instagram" href="https://www.instagram.com/idra.capacitaciones/"></a>
                                         </li>
-                                        <li>
+                                        <!-- <li>
                                             <a class="icon mdi mdi-google-plus" href="#"></a>
-                                        </li>
+                                        </li> -->
                                     </ul>
                                 </div>
                             </div>

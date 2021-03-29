@@ -11,6 +11,11 @@ div {
 * Contexts
 */
 
+.programas {
+    text-align: justify;
+    padding-left: 50px;
+}
+
 .modalidad {
     font-size: 1em;
     text-align: left;
@@ -188,6 +193,20 @@ h1,
     font-size: 50px;
     line-height: 1.1;
     letter-spacing: .025em;
+}
+
+@media (max-width: 768px) {
+    h1,
+    .heading-1 {
+        font-size: 70px;
+    }
+    .programas {
+        text-align: justify;
+        padding-left: 50px;
+    }
+    .btn-vertodo {
+        visibility: hidden;
+    }
 }
 
 @media (min-width: 768px) {
@@ -3983,6 +4002,7 @@ p+.quote-classic {
     .footer-modern-contacts .phone {
         font-size: 18px;
         letter-spacing: .1em;
+        color: #ffffff;
     }
 }
 
@@ -14349,6 +14369,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 .ipad .parallax-container,
 .iphone .parallax-container {
     background-attachment: scroll !important;
+    color: #ffffff;
 }
 
 .material-parallax img {
