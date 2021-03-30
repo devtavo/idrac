@@ -2,7 +2,7 @@
 
 @charset "UTF-8";
 div {
-    border: solid 0px red;
+    border: 1em solid rgb(16, 0, 0);
 }
 
 
@@ -10,6 +10,24 @@ div {
 *
 * Contexts
 */
+
+.carousel-control-next-icon:after {
+    content: '>';
+    font-size: 45px;
+    color: black;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-prev-icon:after {
+    content: '<';
+    font-size: 45px;
+    color: black;
+}
+
+
+/* .carousel-control-prev-icon {
+    border: 1px solid black;
+} */
 
 .programas {
     text-align: justify;
@@ -203,10 +221,11 @@ h1,
     .programas {
         text-align: justify;
         padding-left: 50px;
+        padding-right: 50px;
     }
-    .btn-vertodo {
+    /* .btn-vertodo {
         visibility: hidden;
-    }
+    } */
 }
 
 @media (min-width: 768px) {

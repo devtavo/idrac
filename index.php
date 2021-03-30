@@ -329,13 +329,13 @@
                             <br>
                             <br>
                             <br>
-                            <div class="inner_items_section_carrusel" >
+                            <div class="inner_items_section_carrusel">
                                 <h5 class="programas">Programas virtuales</h5>
                                 <p class="programas">Organiza tu horario y ritmo de estudio de acuerdo a tus posibilidades. Podrás visualizar en vídeo todas las clases que desarrollarán los expositores, además podrás acceder a las dispositivas, enlaces de interés e información relacionada del programa.</p>
                                 <div class="btn_and_arros mt-35 programas">
                                     <br>
                                     <br>
-                                    <a href="#" class="btn-vertodo">Ver todos</a>
+                                    <a href="#" class="btn-vertodo">Ver todos</a> <br>
                                     <div class="cont_arrow_count_items">
                                         <!-- <img class="button-prev lozad" data-src="https://dt5a8u5a7vqgp.cloudfront.net/web/2021/arrow-prev.svg" alt="arrow prev" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="false" src="https://dt5a8u5a7vqgp.cloudfront.net/web/2021/arrow-prev.svg" data-loaded="true" style="opacity: 1; transition: all 0.5s ease 0s;">
                                         <img class="button-next lozad" data-src="https://dt5a8u5a7vqgp.cloudfront.net/web/2021/arrow-next.svg" alt="arrow next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false" src="https://dt5a8u5a7vqgp.cloudfront.net/web/2021/arrow-next.svg" data-loaded="true" style="opacity: 1; transition: all 0.5s ease 0s;">
@@ -344,6 +344,7 @@
                                 </div>
                             </div>
                         </div>
+                    
                         <div class="col-md-8">
                             <div class="container-fluid">
                                 <!-- <h1 class="text-center mb-3">Bootstrap Multi-Card Carousel</h1> -->
@@ -351,9 +352,9 @@
                                     <div class="carousel-inner row w-100 mx-auto">
                                         <div class="carousel-item col-md-4 active">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/dlaboral.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa Actualización en Derecho Laboral y Procesal Laboral</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
@@ -381,19 +382,19 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/darbicontra.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa Arbitraje en las contrataciones con el ESTADO</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
@@ -421,19 +422,19 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/dfuncion.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa Asistente en Función Fiscal</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
@@ -461,19 +462,19 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/dcontrata.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa Contrataciones con el estado</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
@@ -501,19 +502,19 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/dgubernamental.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa Control Gubernamental</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
@@ -541,19 +542,19 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/dadminemergencia.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa Derecho Administrativo en el estado de emergencia sanitaria</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
@@ -581,19 +582,19 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/dadmintrans.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa Derecho Administrativo en Materia de Transporte</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
@@ -621,19 +622,19 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/dteoria.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa Derecho Penal y Teoría del Delito</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
@@ -661,19 +662,19 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/dpenal.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa Derecho Procesal Penal en el nuevo Código Procesal Penal</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
@@ -701,19 +702,19 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/dfamiliatrat.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa Familia, violencia familiar y trata de persona</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
@@ -741,21 +742,541 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/dggubernamental.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa en Gestión Gubernamental</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/doralidad.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa en Oralidad en el Proceso Civil</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/dgpublica.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa en en Gestión Pública</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/dnotarial.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa en Registral y Notarial</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/dviolencia.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa en Violencia Familiar, de Género y delitos sexuales</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/ddesalojo.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa especializado en Desalojo Inmobiliario</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/dadminpublica.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa derecho administrativo y gestion publica</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/dadminsancionador.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa administrativo sancionador</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/dadmingeneral.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa administrativo General</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/dnormativa.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa Normatividad en el sector Publico</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/dsana.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa Saneamiento y Gestiónde predios Estatales en el marco en el Sistema de Bienes Estatales</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/dprocesalcivil.jpg " width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa de derecho Procesal Civil</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/dcontradmin.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa de Delitos contra la Administración Publica</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                     <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-                                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                        <span class="sr-only">Previous</span>
+                                        <span class="carousel-control-prev-icon" aria-hidden="true" style="background : transparent;"></span>
+                                        <span class="sr-only" style="background : black;">Previouss</span>
                                     </a>
                                     <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
-                                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                        <span class="carousel-control-next-icon" aria-hidden="true" style="background : transparent;"></span>
                                         <span class="sr-only">Next</span>
                                     </a>
                                 </div>
@@ -781,9 +1302,9 @@
                             <br>
                             <br>
                             <div class="inner_items_section_carrusel">
-                                <h5 class="programas">Programas Virtuales </h5>
+                                <h5 class="programas">Cursos de especialización</h5>
                                 <p class="programas">Organiza tu horario y ritmo de estudio de acuerdo a tus posibilidades. Podrás visualizar en vídeo todas las clases que desarrollarán los expositores, además podrás acceder a las dispositivas, enlaces de interés e información relacionada del programa.</p>
-                                <div class="btn_and_arros mt-35 programas" >
+                                <div class="btn_and_arros mt-35 programas">
                                     <br>
                                     <br>
                                     <a href="#" class="btn-vertodo">Ver todos</a>
@@ -798,19 +1319,19 @@
                         <div class="col-md-8">
                             <div class="container-fluid">
                                 <!-- <h1 class="text-center mb-3">Bootstrap Multi-Card Carousel</h1> -->
-                                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                                <div id="myCarousel2" class="carousel slide" data-ride="carousel">
                                     <div class="carousel-inner row w-100 mx-auto">
                                         <div class="carousel-item col-md-4 active">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/ccasatorio.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Actualización en plenos casatorios</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
                                                     </div>
                                                     <div class="modalidad">
-                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
                                                     </div>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
@@ -832,25 +1353,25 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/carbitraje.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Arbitraje</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
                                                     </div>
                                                     <div class="modalidad">
-                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
                                                     </div>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
@@ -872,25 +1393,25 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/cclaboral.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Contratación Laboral</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
                                                     </div>
                                                     <div class="modalidad">
-                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
                                                     </div>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
@@ -912,25 +1433,25 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/ccpublica.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Contratación Pública</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
                                                     </div>
                                                     <div class="modalidad">
-                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
                                                     </div>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
@@ -952,25 +1473,25 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/cambiente.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Derecho Ambiental</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
                                                     </div>
                                                     <div class="modalidad">
-                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
                                                     </div>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
@@ -992,25 +1513,25 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/csustenta.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Derecho Civil para Sustentación de Grado</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
                                                     </div>
                                                     <div class="modalidad">
-                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
                                                     </div>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
@@ -1032,25 +1553,25 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/cconsti.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Derecho Constitucional</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
                                                     </div>
                                                     <div class="modalidad">
-                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
                                                     </div>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
@@ -1072,25 +1593,25 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/cfinanzas.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Derecho de Familia: Tenencia y Régimen de visita</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
                                                     </div>
                                                     <div class="modalidad">
-                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
                                                     </div>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
@@ -1112,25 +1633,25 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/cadmin.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Derecho Disciplinario Sancionador</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
                                                     </div>
                                                     <div class="modalidad">
-                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
                                                     </div>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
@@ -1152,25 +1673,66 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                            <!-- aqui -->
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/cprocesal.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Derecho Procesal Penal en el Nuevo Código Procesal Penal</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
-                                                <img class="card-img-top img-fluid" src="images/img/img (2).jpg" width="370px" height="150px" alt="Card image cap">
+                                                <img class="card-img-top img-fluid" src="images/img/csocietario.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
-                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado en gestion publica</b></div>
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Derecho Societario</b></div>
                                                     <hr>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
                                                     </div>
                                                     <div class="modalidad">
-                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
                                                     </div>
                                                     <div class="modalidad">
                                                         <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
@@ -1192,20 +1754,980 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/300.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="# " class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/ctributario.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Derecho Tributario</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/creal.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Derechos Reales</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/cfinanzas.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Finanzas para Abogados</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/cgpublica.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Géstion Pública</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/cmerca.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Mercado de Valores</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/cofi2.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Ofimática para Abogados</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/cofimatica.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Ofimática para Abogados</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/coralidad.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Oralidad en el Proceso Civil</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/crpublico.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Redacción de Documentos Públicos</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/crcivil.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Redacción Jurídica Civil</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/crpenal.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Redacción Jurídica penal</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/crinmo.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Registral Inmobiliario</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/css.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Seguridad y Salud en el Trabajo</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/cherra.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Cursos de Herramientas de Audiencias Virtuales</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/cmunicipal.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Derecho Municipal</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/ccinterno.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Control Interno</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/cpredio.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Predios Estatales</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/cgoberna.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Cursos de especializacion en gobernabilidad</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/cviolenvia.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de violencia familiar</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/ccontratos.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Contratos Privados</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/cconsumidor.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de derecho del consumidor</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/catencion.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Atención al usuario</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/cregulatorio.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso de Derecho Regulatorio</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item col-md-4">
+                                            <div class="card">
+                                                <img class="card-img-top img-fluid" src="images/img/celectoral.jpg" width="370px" height="150px" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Curso en Materia electoral</b></div>
+                                                    <hr>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 24 horas</span>
+                                                    </div>
+                                                    <div class="modalidad">
+                                                        <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
+                                                                <g id="cards-certificado" transform="translate(-313.232 -100.44)">
+                                                                    <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                    <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
+                                                                </g>
+                                                            </svg> Certifica: IDRA Capacitaciones</span>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row" style="margin: 0px;">
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
+                                                            <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+                                    <a class="carousel-control-prev" href="#myCarousel2" role="button" data-slide="prev">
                                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                         <span class="sr-only">Previous</span>
                                     </a>
-                                    <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+                                    <a class="carousel-control-next" href="#myCarousel2" role="button" data-slide="next">
                                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                         <span class="sr-only">Next</span>
                                     </a>
@@ -1300,7 +2822,7 @@
                     <div class="row justify-content-end">
                         <div class="col-sm-8 col-md-7 col-lg-5">
                             <div class="cta-modern">
-                                <h3 class="cta-modern-title wow fadeInRight" style="color:#06206d;">CURSO</h3>
+                                <h3 class="cta-modern-title wow fadeInRight modifica" style="color:#06206d;">CURSO</h3>
                                 <p class="lead" style="color:#06206d;">DERECHO REGULATORIO</p>
                                 <p class="cta-modern-text oh-desktop" style="color:#06206d;" data-wow-delay=".1s"><span class="cta-modern-decor wow slideInLeft"></span><span class="d-inline-block wow slideInDown">Desde el 31 de Marzo </span></p>
                                 <a class="button button-md button-secondary-2 button-winona wow fadeInUp" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" data-wow-delay=".2s">INFORMES E INSCRIPCIONES</a>
@@ -1686,7 +3208,7 @@
                                 <div class="footer-modern-contacts wow slideInUp">
                                     <div class="unit unit-spacing-sm align-items-center">
                                         <div class="unit-left"><span class="icon icon-24 mdi mdi-phone"></span></div>
-                                        <div class="unit-body"><a class="phone" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" >+51 916 611 364</a></div>
+                                        <div class="unit-body"><a class="phone" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank">+51 916 611 364</a></div>
                                     </div>
                                 </div>
                                 <div class="footer-modern-contacts wow slideInDown">

@@ -1,59 +1,61 @@
 <!DOCTYPE html>
 <html class="wide wow-animation" lang="en">
-  <head>
-    <title>Contacts</title>
-    <meta name="format-detection" content="telephone=no">
-    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta charset="utf-8">
-    <link rel="icon" href="images/logo.ico" type="image/x-icon">
-    <!-- Stylesheets-->
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:100,300,300i,400,500,600,700,900%7CRaleway:500">
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/fonts.css">
-    <link rel="stylesheet" href="css/style.css">
-    <!--[if lt IE 10]>
+
+<head>
+  <title>Contacto</title>
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8">
+  <link rel="icon" href="images/logo.ico" type="image/x-icon">
+  <!-- Stylesheets-->
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:100,300,300i,400,500,600,700,900%7CRaleway:500">
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="css/fonts.css">
+  <link rel="stylesheet" href="css/style.css">
+  <!--[if lt IE 10]>
     <div style="background: #212121; padding: 10px 0; box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3); clear: both; text-align:center; position: relative; z-index:1;"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
     <script src="js/html5shiv.min.js"></script>
     <![endif]-->
-  </head>
-  <body>
-    <div class="preloader">
-      <div class="wrapper-triangle">
-        <div class="pen">
-          <div class="line-triangle">
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-          </div>
-          <div class="line-triangle">
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-          </div>
-          <div class="line-triangle">
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-          </div>
+</head>
+
+<body>
+  <div class="preloader">
+    <div class="wrapper-triangle">
+      <div class="pen">
+        <div class="line-triangle">
+          <div class="triangle"></div>
+          <div class="triangle"></div>
+          <div class="triangle"></div>
+          <div class="triangle"></div>
+          <div class="triangle"></div>
+          <div class="triangle"></div>
+          <div class="triangle"></div>
+        </div>
+        <div class="line-triangle">
+          <div class="triangle"></div>
+          <div class="triangle"></div>
+          <div class="triangle"></div>
+          <div class="triangle"></div>
+          <div class="triangle"></div>
+          <div class="triangle"></div>
+          <div class="triangle"></div>
+        </div>
+        <div class="line-triangle">
+          <div class="triangle"></div>
+          <div class="triangle"></div>
+          <div class="triangle"></div>
+          <div class="triangle"></div>
+          <div class="triangle"></div>
+          <div class="triangle"></div>
+          <div class="triangle"></div>
         </div>
       </div>
     </div>
-    <div class="page">
-      
-      <header class="section page-header">
+  </div>
+  <div class="page">
+
+    <header class="section page-header">
       <!-- RD Navbar-->
       <div class="rd-navbar-wrap">
         <nav class="rd-navbar rd-navbar-modern" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-lg-stick-up-offset="56px" data-xl-stick-up-offset="56px" data-xxl-stick-up-offset="56px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
@@ -74,7 +76,7 @@
                     <li>
                       <div class="unit unit-spacing-xs">
                         <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
-                        <div class="unit-body"><a class="phone" href="tel:#">+51 916 611 364</a>
+                        <div class="unit-body"><a class="phone" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank">+51 916 611 364</a>
                         </div>
                       </div>
                     </li>
@@ -98,9 +100,9 @@
                     <li>
                       <a class="icon mdi mdi-instagram" href="https://www.instagram.com/idra.capacitaciones/"></a>
                     </li>
-                    <li>
+                    <!-- <li>
                       <a class="icon mdi mdi-google-plus" href="#"></a>
-                    </li>
+                    </li> -->
                   </ul>
                 </div>
                 <div class="rd-navbar-main">
@@ -210,111 +212,116 @@
         </nav>
       </div>
     </header>
-      <!-- Breadcrumbs -->
-      <section class="bg-gray-7">
-        <div class="breadcrumbs-custom box-transform-wrap context-dark">
-          <div class="container">
-            <h3 class="breadcrumbs-custom-title">Contacts</h3>
-            <div class="breadcrumbs-custom-decor"></div>
-          </div>
-          <div class="box-transform" style="background-image: url(images/ban2.jpg);"></div>
-        </div>
+    <!-- Breadcrumbs -->
+    <section class="bg-gray-7">
+      <div class="breadcrumbs-custom box-transform-wrap context-dark">
         <div class="container">
-          <ul class="breadcrumbs-custom-path">
-            <li><a href="index.php">Inicio</a></li>
-            <li class="active">Contacto</li>
-          </ul>
+          <h3 class="breadcrumbs-custom-title">Contacto</h3>
+          <div class="breadcrumbs-custom-decor"></div>
         </div>
-      </section>
-      <!-- Contacts-->
-      <section class="section section-lg bg-default text-md-left">
-        <div class="container">
-          <div class="row row-60 justify-content-center">
-            <div class="col-lg-8">
+        <div class="box-transform" style="background-image: url(images/ban2.jpg);"></div>
+      </div>
+      <div class="container">
+        <ul class="breadcrumbs-custom-path">
+          <li><a href="index.php">Inicio</a></li>
+          <li class="active">Contacto</li>
+        </ul>
+      </div>
+    </section>
+    <!-- Contacts-->
+    <section class="section section-lg bg-default text-md-left">
+      <div class="container">
+        <div class="row row-60 justify-content-center">
+          <div class="col-lg-8">
             <h5 class="heading-4">Ponte en contacto con nosotros</h5>
-                <form class="rd-form rd-mailform form-style-1" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
-                    <div class="row row-20 gutters-20">
-                        <div class="col-md-6 col-lg-4 oh-desktop">
-                            <div class="form-wrap wow slideInDown">
-                                <input class="form-input" id="contact-your-name-6" type="text" name="name" data-constraints="@Required">
-                                <label class="form-label" for="contact-your-name-6">Nombre</label>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 oh-desktop">
-                            <div class="form-wrap wow slideInUp">
-                                <input class="form-input" id="contact-email-6" type="email" name="email" data-constraints="@Email @Required">
-                                <label class="form-label" for="contact-email-6">Correo</label>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 oh-desktop">
-                            <div class="form-wrap wow slideInDown">
-                                <select class="form-input" data-minimum-results-for-search="Infinity" data-constraints="@Required">
-                                    <option value="1">Seleccion una opcion</option>
-                                    <option value="2">Informes</option>
-                                    <option value="3">Inscripcion</option>
-                                    <option value="4">Reclamo</option>
-                                </select>
-                            </div>
-                        </div>
-                        <div class="col-12">
-                            <div class="form-wrap wow fadeIn">
-                                <label class="form-label" for="contact-message-6">Mensaje</label>
-                                <textarea class="form-input textarea-lg" id="contact-message-6" name="message" data-constraints="@Required"></textarea>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="group-custom-1 group-middle oh-desktop">
-                        <button class="button button-lg button-primary button-winona wow fadeInRight" style="border-radius: 40px;  padding: 10px;" type="submit" >Enviar</button>
-                        <!-- <article class="quote-classic quote-classic-3 wow slideInDown">
+            <form class="rd-form rd-mailform form-style-1" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
+              <div class="row row-20 gutters-20">
+                <div class="col-md-6 col-lg-4 oh-desktop">
+                  <div class="form-wrap wow slideInDown">
+                    <input class="form-input" id="contact-your-name-6" type="text" name="name" data-constraints="@Required">
+                    <label class="form-label" for="contact-your-name-6">Nombre</label>
+                  </div>
+                </div>
+                <div class="col-md-6 col-lg-4 oh-desktop">
+                  <div class="form-wrap wow slideInUp">
+                    <input class="form-input" id="contact-email-6" type="email" name="email" data-constraints="@Email @Required">
+                    <label class="form-label" for="contact-email-6">Correo</label>
+                  </div>
+                </div>
+                <div class="col-lg-4 oh-desktop">
+                  <div class="form-wrap wow slideInDown">
+                    <select class="form-input" data-minimum-results-for-search="Infinity" data-constraints="@Required">
+                      <option value="1">Seleccion una opcion</option>
+                      <option value="2">Informes</option>
+                      <option value="3">Inscripcion</option>
+                      <option value="4">Reclamo</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="col-12">
+                  <div class="form-wrap wow fadeIn">
+                    <label class="form-label" for="contact-message-6">Mensaje</label>
+                    <textarea class="form-input textarea-lg" id="contact-message-6" name="message" data-constraints="@Required"></textarea>
+                  </div>
+                </div>
+              </div>
+              <div class="group-custom-1 group-middle oh-desktop">
+                <button class="button button-lg button-primary button-winona wow fadeInRight" style="border-radius: 40px;  padding: 10px;" type="submit">Enviar</button>
+                <!-- <article class="quote-classic quote-classic-3 wow slideInDown">
                             <div class="quote-classic-text">
                                 <p class="q">Contenido Contenido Contenido Contenido</p>
                             </div>
                         </article> -->
-                    </div>
-                </form>
-            </div>
-            <div class="col-lg-4">
-              <div class="aside-contacts">
-                <div class="row row-30">
-                  <div class="col-sm-6 col-lg-12 aside-contacts-item">
-                    <p class="aside-contacts-title">Get social</p>
-                    <ul class="list-inline contacts-social-list list-inline-sm">
-                      <li><a class="icon mdi mdi-facebook" href="#"></a></li>
-                      <li><a class="icon mdi mdi-twitter" href="#"></a></li>
-                      <li><a class="icon mdi mdi-instagram" href="#"></a></li>
-                      <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
-                    </ul>
+              </div>
+            </form>
+          </div>
+          <div class="col-lg-4">
+            <div class="aside-contacts">
+              <div class="row row-30">
+                <div class="col-sm-6 col-lg-12 aside-contacts-item">
+                  <p class="aside-contacts-title">Redes Sociales</p>
+                  <ul class="list-inline contacts-social-list list-inline-sm">
+                    <li>
+                      <a class="icon mdi mdi-facebook" href="https://www.facebook.com/idracapacitaciones"></a>
+                    </li>
+                    <li>
+                      <a class="icon mdi mdi-twitter" href="https://twitter.com/idracapacita"></a>
+                    </li>
+                    <li>
+                      <a class="icon mdi mdi-instagram" href="https://www.instagram.com/idra.capacitaciones/"></a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="col-sm-6 col-lg-12 aside-contacts-item">
+                  <p class="aside-contacts-title">Celular</p>
+                  <div class="unit unit-spacing-xs justify-content-center justify-content-md-start">
+                    <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
+                    <div class="unit-body"><a class="phone" href="tel:#">+51 916 611 364</a></div>
                   </div>
-                  <div class="col-sm-6 col-lg-12 aside-contacts-item">
-                    <p class="aside-contacts-title">Phone</p>
-                    <div class="unit unit-spacing-xs justify-content-center justify-content-md-start">
-                      <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
-                      <div class="unit-body"><a class="phone" href="tel:#">1-800-1234-567</a></div>
-                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-12 aside-contacts-item">
+                  <p class="aside-contacts-title">E-mail</p>
+                  <div class="unit unit-spacing-xs justify-content-center justify-content-md-start">
+                    <div class="unit-left"><span class="icon mdi mdi-email-outline"></span></div>
+                    <div class="unit-body"><a class="mail" href="mailto:#">informes@idra.pe</a></div>
                   </div>
-                  <div class="col-sm-6 col-lg-12 aside-contacts-item">
-                    <p class="aside-contacts-title">E-mail</p>
-                    <div class="unit unit-spacing-xs justify-content-center justify-content-md-start">
-                      <div class="unit-left"><span class="icon mdi mdi-email-outline"></span></div>
-                      <div class="unit-body"><a class="mail" href="mailto:#">info@demolink.org</a></div>
-                    </div>
-                  </div>
-                  <div class="col-sm-6 col-lg-12 aside-contacts-item">
-                    <p class="aside-contacts-title">Address</p>
-                    <div class="unit unit-spacing-xs justify-content-center justify-content-md-start">
-                      <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
-                      <div class="unit-body"><a class="address" href="#">6036 Richmond hwy., <br class="d-md-none">Alexandria, VA, 2230</a></div>
-                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-12 aside-contacts-item">
+                  <p class="aside-contacts-title">Dirección</p>
+                  <div class="unit unit-spacing-xs justify-content-center justify-content-md-start">
+                    <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
+                    <div class="unit-body"><a class="address" href="#">Ca. Los Tulipanes #186 - Lince<br class="d-md-none"></a></div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section>
+      </div>
+    </section>
 
-      <!-- Page Footer-->
-      <footer class="section footer-modern context-dark footer-modern-2">
+    <!-- Page Footer-->
+    <footer class="section footer-modern context-dark footer-modern-2">
             <div class="footer-modern-line">
                 <div class="container">
                     <div class="row row-50">
@@ -330,11 +337,11 @@
                             <h5 class="footer-modern-title oh-desktop"><span class="d-inline-block wow slideInLeft">IDRA Capacitaciones </span>
                             </h5>
                             <ul class="footer-modern-list d-inline-block d-sm-block wow fadeInUp">
-                                <li><a href="about-us.html">Aula IDRA </a></li>
-                                <li><a href="#">Nosotros </a></li>
+                                <li><a href="https://aula.idra.pe/login/index.php" target="_blank">Aula IDRA </a></li>
+                                <li><a href="nosotros.php">Nosotros </a></li>
                                 <li><a href="#">Programas </a></li>
                                 <li><a href="#">Promociones </a></li>
-                                <li><a href="#">Contacto </a></li>
+                                <li><a href="contacts.php">Contacto </a></li>
                             </ul>
                         </div>
                         <div class="col-lg-4 col-xl-5">
@@ -373,7 +380,7 @@
                                 <div class="footer-modern-contacts wow slideInUp">
                                     <div class="unit unit-spacing-sm align-items-center">
                                         <div class="unit-left"><span class="icon icon-24 mdi mdi-phone"></span></div>
-                                        <div class="unit-body"><a class="phone" href="tel:#">+51 916 611 364</a></div>
+                                        <div class="unit-body"><a class="phone" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" >+51 916 611 364</a></div>
                                     </div>
                                 </div>
                                 <div class="footer-modern-contacts wow slideInDown">
@@ -385,7 +392,7 @@
                                 </div>
                                 <div class="wow slideInRight">
                                     <ul class="list-inline footer-social-list footer-social-list-2 footer-social-list-3">
-                                    <li>
+                                        <li>
                                             <a class="icon mdi mdi-facebook" href="https://www.facebook.com/idracapacitaciones"></a>
                                         </li>
                                         <li>
@@ -394,9 +401,9 @@
                                         <li>
                                             <a class="icon mdi mdi-instagram" href="https://www.instagram.com/idra.capacitaciones/"></a>
                                         </li>
-                                        <li>
+                                        <!-- <li>
                                             <a class="icon mdi mdi-google-plus" href="#"></a>
-                                        </li>
+                                        </li> -->
                                     </ul>
                                 </div>
                             </div>
@@ -419,11 +426,12 @@
                 </div>
             </div>
         </footer>
-    </div>
-    <!-- Global Mailform Output-->
-    <div class="snackbars" id="form-output-global"></div>
-    <!-- Javascript-->
-    <script src="js/core.min.js"></script>
-    <script src="js/script.js"></script>
-  </body>
+  </div>
+  <!-- Global Mailform Output-->
+  <div class="snackbars" id="form-output-global"></div>
+  <!-- Javascript-->
+  <script src="js/core.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+
 </html>

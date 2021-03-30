@@ -149,7 +149,7 @@
                                 <div class="rd-navbar-main">
                                     <!-- RD Navbar Nav-->
                                     <ul class="rd-navbar-nav">
-                                        <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Inicio</a>
+                                        <li class="rd-nav-item active"><a class="rd-nav-link" href="index.php">Inicio</a>
                                         </li>
                                         <li class="rd-nav-item"><a class="rd-nav-link" href="nosotros.php">Nosotros</a>
                                         </li>
