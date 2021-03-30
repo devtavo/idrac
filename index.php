@@ -92,6 +92,7 @@
             </div>
         </div>
     </div>
+
     <div class="page">
         <!-- Top Banner -->
         <!-- <a class="section section-banner text-center d-none d-xl-block" href="https://www.templatemonster.com/intense-multipurpose-html-template.html" style="background-image: url(images/banner/background-04-1920x60.jpg); background-image: -webkit-image-set( url(images/banner/background-04-1920x60.jpg) 1x, url(images/banner/background-04-3840x120.jpg) 2x )"><img src="images/banner/foreground-04-1600x60.png" srcset="images/banner/foreground-04-1600x60.png 1x, images/banner/foreground-04-3200x120.png 2x" alt="" width="1600" height="310"></a> -->
@@ -117,7 +118,7 @@
                                         <li>
                                             <div class="unit unit-spacing-xs">
                                                 <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
-                                                <div class="unit-body"><a class="phone" href="tel:#">+51 916 611 364</a>
+                                                <div class="unit-body"><a class="phone" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank">+51 916 611 364</a>
                                                 </div>
                                             </div>
                                         </li>
@@ -141,26 +142,39 @@
                                         <li>
                                             <a class="icon mdi mdi-instagram" href="https://www.instagram.com/idra.capacitaciones/"></a>
                                         </li>
-                                        <!-- <li>
-                                            <a class="icon mdi mdi-google-plus" href="#"></a>
-                                        </li> -->
+                                        <li>
+                                            <a class="icon mdi mdi-whatsapp" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank"></a>
+                                        </li>
+                                        <li>
+                                            <button class="cabece aula" onclick="window.open('https://aula.idra.pe/login/index.php', '_blank');" style="font-size: 10px;">Aula Virtual IDRA</button>
+                                        </li>
                                     </ul>
                                 </div>
                                 <div class="rd-navbar-main">
                                     <!-- RD Navbar Nav-->
                                     <ul class="rd-navbar-nav">
-                                        <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Inicio</a>
+                                        <li class="rd-nav-item active"><a class="rd-nav-link" href="index.php">Inicio</a>
                                         </li>
                                         <li class="rd-nav-item"><a class="rd-nav-link" href="nosotros.php">Nosotros</a>
                                         </li>
-                                        <li class="rd-nav-item"><a class="rd-nav-link" href="#typography.html">Programas</a>
+                                        <li class="rd-nav-item dropdown"> <button class="dropbtn rd-nav-link">Programación</button>
+                                            <div class="dropdown-content">
+                                                <a href="#">Programas</a>
+                                                <a href="#">Cursos</a>
+                                                <a href="#">Promociónes</a>
+                                            </div>
                                         </li>
-                                        <li class="rd-nav-item"><a class="rd-nav-link" href="#contacts.html">Promociones</a>
+                                        <li class="rd-nav-item"><a class="rd-nav-link" href="certi.php" target="_blank">Certificación</a>
                                         </li>
+                                        <!-- <li class="rd-nav-item dropdown"> <button class="dropbtn rd-nav-link">Dropdown</button>
+                                            <div class="dropdown-content">
+                                                <a href="#">Link 1</a>
+                                                <a href="#">Link 2</a>
+                                                <a href="#">Link 3</a>
+                                            </div>
+                                        </li> -->
                                         <li class="rd-nav-item"><a class="rd-nav-link" href="contacts.php">Contacto</a>
-
                                         </li>
-
                                     </ul>
                                 </div>
                             </div>
@@ -181,8 +195,8 @@
                                             <div class="col-6">
                                                 <!-- Thumbnail Creative-->
                                                 <article class="thumbnail thumbnail-creative">
-                                                    <a href="images/img/img (10).jpg" data-lightgallery="item">
-                                                        <div class="thumbnail-creative-figure"><img src="images/img/img (10).jpg" alt="" width="195" height="164" />
+                                                    <a href="images/img/cclaboral.jpg" data-lightgallery="item">
+                                                        <div class="thumbnail-creative-figure"><img src="images/img/cclaboral.jpg" alt="" width="195" height="164" />
                                                         </div>
                                                         <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span>
                                                         </div>
@@ -192,8 +206,8 @@
                                             <div class="col-6">
                                                 <!-- Thumbnail Creative-->
                                                 <article class="thumbnail thumbnail-creative">
-                                                    <a href="images/img/img (11).jpg" data-lightgallery="item">
-                                                        <div class="thumbnail-creative-figure"><img src="images/img/img (11).jpg" alt="" width="195" height="164" />
+                                                    <a href="images/img/cconsumidor.jpg" data-lightgallery="item">
+                                                        <div class="thumbnail-creative-figure"><img src="images/img/ccontratos.jpg" alt="" width="195" height="164" />
                                                         </div>
                                                         <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span>
                                                         </div>
@@ -203,8 +217,8 @@
                                             <div class="col-6">
                                                 <!-- Thumbnail Creative-->
                                                 <article class="thumbnail thumbnail-creative">
-                                                    <a href="images/img/img (12).jpg" data-lightgallery="item">
-                                                        <div class="thumbnail-creative-figure"><img src="images/img/img (12).jpg" alt="" width="195" height="164" />
+                                                    <a href="images/img/cofi2.jpg" data-lightgallery="item">
+                                                        <div class="thumbnail-creative-figure"><img src="images/img/cofi2.jpg" alt="" width="195" height="164" />
                                                         </div>
                                                         <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span>
                                                         </div>
@@ -214,8 +228,8 @@
                                             <div class="col-6">
                                                 <!-- Thumbnail Creative-->
                                                 <article class="thumbnail thumbnail-creative">
-                                                    <a href="images/img/img (13).jpg" data-lightgallery="item">
-                                                        <div class="thumbnail-creative-figure"><img src="images/img/img (13).jpg" alt="" width="195" height="164" />
+                                                    <a href="images/img/cregulatorio.jpg" data-lightgallery="item">
+                                                        <div class="thumbnail-creative-figure"><img src="images/img/cregulatorio.jpg" alt="" width="195" height="164" />
                                                         </div>
                                                         <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span>
                                                         </div>
@@ -225,8 +239,8 @@
                                             <div class="col-6">
                                                 <!-- Thumbnail Creative-->
                                                 <article class="thumbnail thumbnail-creative">
-                                                    <a href="images/img/img (14).jpg" data-lightgallery="item">
-                                                        <div class="thumbnail-creative-figure"><img src="images/img/img (14).jpg" alt="" width="195" height="164" />
+                                                    <a href="images/img/dcontradmin.jpg" data-lightgallery="item">
+                                                        <div class="thumbnail-creative-figure"><img src="images/img/dcontradmin.jpg" alt="" width="195" height="164" />
                                                         </div>
                                                         <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span>
                                                         </div>
@@ -236,8 +250,8 @@
                                             <div class="col-6">
                                                 <!-- Thumbnail Creative-->
                                                 <article class="thumbnail thumbnail-creative">
-                                                    <a href="images/img/img (15).jpg" data-lightgallery="item">
-                                                        <div class="thumbnail-creative-figure"><img src="images/img/img (15).jpg" alt="" width="195" height="164" />
+                                                    <a href="images/img/dsana.jpg" data-lightgallery="item">
+                                                        <div class="thumbnail-creative-figure"><img src="images/img/dsana.jpg" alt="" width="195" height="164" />
                                                         </div>
                                                         <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span>
                                                         </div>
@@ -344,7 +358,7 @@
                                 </div>
                             </div>
                         </div>
-                    
+
                         <div class="col-md-8">
                             <div class="container-fluid">
                                 <!-- <h1 class="text-center mb-3">Bootstrap Multi-Card Carousel</h1> -->
@@ -1681,7 +1695,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                            <!-- aqui -->
+                                        <!-- aqui -->
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
                                                 <img class="card-img-top img-fluid" src="images/img/cprocesal.jpg" width="370px" height="150px" alt="Card image cap">

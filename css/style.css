@@ -17336,4 +17336,67 @@ section.pricing {
     padding-left: 350px;
 }
 
-.pagador {}
+.cabec {
+    background-color: #304e9c;
+    color: white;
+    z-index: 9999;
+    position: relative;
+}
+
+.aula {
+    background-color: #218838;
+    ;
+    color: white;
+    font-weight: 800;
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid rgba(10, 143, 39, 0.911);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.dropbtn {
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    background-color: #F5F5F5;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 9999;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+/* .dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+} */
