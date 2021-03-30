@@ -17400,3 +17400,386 @@ section.pricing {
 /* .dropdown:hover .dropbtn {
     background-color: #3e8e41;
 } */
+
+.cabec {
+    background-color: #304e9c;
+    color: white;
+    z-index: 9999;
+    position: relative;
+}
+
+div {
+    border: 0px solid;
+}
+
+.modalidad {
+    color: #000;
+}
+
+.mensaje {
+    background: rgba(2, 11, 61, 0.767);
+}
+
+.titulo {
+    border: 0px solid;
+    font-size: 27px;
+    font-weight: 700;
+    color: rgba(0, 160, 253, 0.904);
+    font-family: 'Montserrat', sans-serif;
+    padding: 14px;
+}
+
+.boton {
+    border-radius: 7px;
+    font-size: 2em;
+}
+
+.descripcion {
+    border: 0px solid;
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 30px;
+    padding-bottom: 25px;
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.formato {
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 0px;
+}
+
+.cursograti h1 {
+    border: 0px solid #000;
+    /* margin: 80px; */
+    font-style: normal;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(255, 255, 255, 1);
+    text-align: left;
+    padding: 10px;
+    border-radius: 4px;
+    background: rgba(3, 4, 93, 0.849);
+}
+
+.navbar {
+    background: green;
+    transition: all .6s;
+    backface-visibility: hidden;
+}
+
+.navbar.navbar-no-bg {
+    background: yellow;
+    background: rgba(255, 255, 255, 0.9);
+    padding-top: 35px;
+}
+
+.navbar-dark .navbar-nav {
+    font-size: 15px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+    color: rgba(255, 255, 255, 0.8);
+    border: 0;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #fff;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus {
+    color: #fff;
+    outline: 0;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+.pric {
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+@media (max-width: 425px) {
+    .cabece {
+        background-color: #304e9c;
+        color: #fff;
+        font-weight: 100;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border: 0px solid #000;
+        padding: 0px;
+        text-align: center;
+        font-size: 10px;
+    }
+    .formato {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .pric {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .embed-responsive-item {
+        width: 350px;
+        height: 200px;
+    }
+    .imagenlateral {
+        width: 339px;
+        height: 361px;
+        image-resolution: 339px;
+    }
+    .formatos {
+        padding-left: 0px;
+        width: 350px;
+        height: 100px;
+    }
+}
+
+ul#ejm2 li a {
+    position: relative;
+    font-weight: bold;
+    color: #0E83CD;
+    margin: 0px 15px;
+}
+
+ul#ejm2 li a:after {
+    position: absolute;
+    bottom: 7px;
+    left: 0px;
+    width: 100%;
+    height: 4px;
+    background-color: #FFD743;
+    content: "";
+    opacity: 0;
+    transition: opacity 0.3s ease 0s, transform 0.3s ease 0s;
+    transform: translateY(20px);
+}
+
+ul#ejm2 li a:hover:after {
+    opacity: 1;
+    transform: translateY(15px)
+}
+
+a:hover {
+    color: white;
+    border-bottom: 0px solid #fff;
+}
+
+.logo {
+    margin: 0px;
+    padding: 0px;
+}
+
+.menucabecera {
+    background-color: white;
+    margin: 0px;
+    background: #000;
+    /* padding: 50px; */
+    /* position: fixed; */
+    /* z-index: 9999; */
+}
+
+section.pricing {
+    /* background: #007bff8c; */
+    /* background: linear-gradient(to right, rgba(4, 28, 95, 0.856), rgba(10, 16, 68, 0.856)); */
+}
+
+.pricing .card {
+    border: none;
+    border-radius: 1rem;
+    transition: all 0.2s;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.pricing hr {
+    margin: 1.5rem 0;
+}
+
+.submenu {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    width: 150px;
+}
+
+.pricing .card-title {
+    margin: 0px;
+    font-size: 0.15 rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+}
+
+.pricing .card-price {
+    font-size: 3rem;
+    margin: 0;
+}
+
+.pricing .card-price .period {
+    font-size: 0.8rem;
+}
+
+.pricing ul li {
+    margin-bottom: 1rem;
+}
+
+.pricing .text-muted {
+    opacity: 0.7;
+}
+
+.pricing .btn {
+    font-size: 80%;
+    border-radius: 5rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+    padding: 1rem;
+    opacity: 0.9;
+    color: white;
+    transition: all 0.2s;
+}
+
+
+/* Hover Effects on Card */
+
+@media (min-width: 992px) {
+    .pricing .card:hover {
+        margin-top: -.25rem;
+        margin-bottom: .25rem;
+        box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+    }
+    .pricing .card:hover .btn {
+        opacity: 1;
+    }
+}
+
+.imagenlateral {
+    width: 339px;
+    height: 361px;
+    align-items: center;
+}
+
+
+/* Landing page de cada curso */
+
+.titulo-land {
+    font-size: 40px;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+    line-height: 55px;
+    padding-top: 10px;
+    padding-left: 28px;
+    padding-right: 28px;
+    text-align: inherit;
+}
+
+.contenido-land {
+    font-size: 16px;
+    padding-left: 28px;
+    color: white;
+    padding-right: 28px;
+    font-weight: 600;
+    text-align: justify;
+}
+
+.margenvideo {
+    margin: 30px;
+}
+
+.what {
+    background: #06D755;
+    border-radius: 10px;
+    border: 0px;
+    color: white;
+    padding: 10px;
+    margin-left: 28px;
+    width: 14em;
+    margin-bottom: 7em;
+}
+
+.barra {
+    position: relative;
+    top: -80px;
+    left: 20px;
+    background: rgb(250, 248, 248);
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 20 px 10px rgba(0, 0, 0, 0.16);
+}
+
+.caracteristica {
+    font-size: 1.2em;
+    font-weight: 900;
+    text-align: center;
+    color: rgb(16, 43, 3);
+    font-family: 'Roboto', sans-serif;
+    margin-top: 0.7em;
+}
+
+.caracteristica-alt {
+    font-size: 10px;
+    font-weight: 900;
+    text-align: center;
+    color: rgb(30, 1, 133);
+    font-family: 'Roboto', sans-serif;
+}
+
+.descripcion-bloque {
+    padding: 20px;
+    border-radius: 10px;
+    background: rgba(128, 128, 128, 0.248);
+}
+
+.descripcion-titulo {
+    color: rgba(17, 1, 107, 0.796);
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+}
+
+.descripcion-contenido {
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.05em;
+    color: rgb(82, 81, 81);
+}
+
+.presentacion-bloque {
+    margin-top: 5px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+    background: #0C1F4C;
+}
+
+.nav-tabs {
+    border: 0px;
+    color: white;
+}
+
+.nav-item {
+    margin: 20px;
+}
+
+.tab-content {
+    background: white;
+}
+
+.nav-links {
+    color: white;
+    background: blue;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+}
+
+.formatos {
+    padding-left: 350px;
+}

@@ -159,7 +159,7 @@
                                         </li>
                                         <li class="rd-nav-item dropdown"> <button class="dropbtn rd-nav-link">Programación</button>
                                             <div class="dropdown-content">
-                                                <a href="#">Programas</a>
+                                                <a href="programas.php">Programas</a>
                                                 <a href="#">Cursos</a>
                                                 <a href="#">Promociónes</a>
                                             </div>

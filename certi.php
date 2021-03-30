@@ -123,7 +123,7 @@
                                         </li>
                                         <li class="rd-nav-item dropdown"> <button class="dropbtn rd-nav-link">Programación</button>
                                             <div class="dropdown-content">
-                                                <a href="#">Programas</a>
+                                                <a href="programas.php">Programas</a>
                                                 <a href="#">Cursos</a>
                                                 <a href="#">Promoción</a>
                                             </div>
@@ -236,14 +236,14 @@
         <div class="container-fluid">
             <div class="row justify-content-end">
                 <div class="col-lg-12">
-                <iframe src="http://localhost/certificado/users/certificados/index.php" width="100%" height="600px" frameborder="0"></iframe>
+                <iframe src="http://idra.pe/certificado/users/certificados/index.php" width="100%" height="1100px" frameborder="0"></iframe>
 
                 </div>
             </div>
         </div>
 
 
-    <section class="section swiper-container " data-loop="true" data-autoplay="5000" data-simulate-touch="false" data-slide-effect="fade">
+    <section class="section swiper-container " data-loop="true" data-autoplay="5000" data-simulate-touch="false" data-slide-effect="fade" style="height: 0px;">
         <div class="swiper-wrapper text-sm-left">
             <div class="swiper-slide context-dark" data-slide-bg="images/ban1.jpg">
                 <div class="swiper-slide-caption section-md">
