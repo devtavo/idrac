@@ -2834,7 +2834,7 @@
         </section>
         <br><br>
         <!-- Our Shop-->
-        <section class="section section-lg bg-default">
+        <!-- <section class="section section-lg bg-default">
             <div class="container">
                 <h3 class="oh-desktop"><span class="d-inline-block wow slideInUp">Cursos en promoción</span></h3>
                 <div class="row row-lg row-30">
@@ -2903,7 +2903,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <!-- <section class="primary-overlay section parallax-container" data-parallax-img="images/sec2.jpg">
             <div class="parallax-content section-xxl context-dark text-md-left">
