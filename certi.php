@@ -128,7 +128,7 @@
                                                 <a href="#">Promoción</a>
                                             </div>
                                         </li>
-                                        <li class="rd-nav-item active"><a class="rd-nav-link" href="certifica.php">Certificación</a>
+                                        <li class="rd-nav-item active"><a class="rd-nav-link" href="certi.php">Certificación</a>
                                         </li>
                                         <!-- <li class="rd-nav-item dropdown"> <button class="dropbtn rd-nav-link">Dropdown</button>
                                             <div class="dropdown-content">
