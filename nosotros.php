@@ -141,7 +141,7 @@ src="https://www.facebook.com/tr?id=368632364575709&ev=PageView&noscript=1"
                                                 <a href="#">Promociónes</a>
                                             </div>
                                         </li>
-                                        <li class="rd-nav-item"><a class="rd-nav-link" href="certi.php" target="_blank">Certificación</a>
+                                        <!-- <li class="rd-nav-item"><a class="rd-nav-link" href="certi.php" target="_blank">Certificación</a> -->
                                         </li>
                                         <!-- <li class="rd-nav-item dropdown"> <button class="dropbtn rd-nav-link">Dropdown</button>
                                             <div class="dropdown-content">
