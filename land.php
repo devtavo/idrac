@@ -130,7 +130,7 @@ src="https://www.facebook.com/tr?id=368632364575709&ev=PageView&noscript=1"
                                 <div class="rd-navbar-main">
                                     <!-- RD Navbar Nav-->
                                     <ul class="rd-navbar-nav">
-                                        <li class="rd-nav-item"><a class="rd-nav-link" href="index.php">Inicio</a>
+                                        <li class="rd-nav-item "><a class="rd-nav-link" href="index.php">Inicio</a>
                                         </li>
                                         <li class="rd-nav-item active"><a class="rd-nav-link" href="nosotros.php">Nosotros</a>
                                         </li>
@@ -141,7 +141,7 @@ src="https://www.facebook.com/tr?id=368632364575709&ev=PageView&noscript=1"
                                                 <a href="#">Promociónes</a>
                                             </div>
                                         </li>
-                                        <li class="rd-nav-item "><a class="rd-nav-link" href="inhouse.php" target="_blank">InHouse</a>
+                                        <!-- <li class="rd-nav-item"><a class="rd-nav-link" href="certi.php" target="_blank">Certificación</a> -->
                                         </li>
                                         <!-- <li class="rd-nav-item dropdown"> <button class="dropbtn rd-nav-link">Dropdown</button>
                                             <div class="dropdown-content">
@@ -246,7 +246,7 @@ src="https://www.facebook.com/tr?id=368632364575709&ev=PageView&noscript=1"
     </header>
     <!-- parallax top-->
     <!-- Breadcrumbs -->
-    <section class="bg-gray-7">
+    <!-- <section class="bg-gray-7">
       <div class="breadcrumbs-custom box-transform-wrap context-dark">
         <div class="container">
           <h3 class="breadcrumbs-custom-title">Nosotros</h3>
@@ -260,61 +260,11 @@ src="https://www.facebook.com/tr?id=368632364575709&ev=PageView&noscript=1"
           <li class="active">Nosotros</li>
         </ul>
       </div>
-    </section>
+    </section> -->
     <section class="section section-lg bg-default">
-      <div class="container">
-        <div class="tabs-custom row row-50 justify-content-center flex-lg-row-reverse text-center text-md-left" id="tabs-4">
-          <div class="col-lg-4 col-xl-3">
-            <h5 class="text-spacing-200 text-capitalize">3+ años de experiencia</h5>
-            <ul class="nav list-category list-category-down-md-inline-block">
-              <li class="list-category-item wow fadeInRight" role="presentation" data-wow-delay="0s"><a class="active" href="#tabs-4-1" data-toggle="tab">Nosotros</a></li>
-              <li class="list-category-item wow fadeInRight" role="presentation" data-wow-delay=".1s"><a href="#tabs-4-2" data-toggle="tab">Nuestra Mision</a></li>
-              <li class="list-category-item wow fadeInRight" role="presentation" data-wow-delay=".2s"><a href="#tabs-4-3" data-toggle="tab">Nuestra Meta</a></li>
-              <li class="list-category-item wow fadeInRight" role="presentation" data-wow-delay=".3s"><a href="#tabs-4-4" data-toggle="tab">Nuestros Valores</a></li>
-            </ul><a class="button button-xl button-primary button-winona" href="contacts.php">Contactanos</a>
-          </div>
-          <div class="col-lg-8 col-xl-9">
-            <!-- Tab panes-->
-            <div class="tab-content tab-content-1">
-              <div class="tab-pane fade show active" id="tabs-4-1">
-                <h4>Nosotros</h4>
-                <p style="text-align: justify;">IDRA es una institución dedicada a la enseñanza en temas relacionados a la administración pública, las Ciencias Sociales y jurídicas en los distintos ámbitos gubernamentales del país y sus instituciones. Las actividades académicas que realizamos buscan contribuir al mejoramiento de la función pública, acrecentando así los conocimientos, habilidades y aptitudes de los funcionarios y servidores de las organizaciones públicas y privadas.
+      <div class="container-fluid">
+       <iframe src="https://idra.pe/in-house/elementor-42/"  width="100%"  height="4200px"  style="border:none;" frameborder="0"></iframe>
 
-                  En cumplimiento de su misión institucional y promoviendo la pluralidad de enfoques interdisciplinarios, estamos realizando proyectos de investigación y consultorías en diversos campos cuyos resultados de dichas investigaciones serán difundidas a través de su anhelante labor editorial.
-
-                  A lo largo de estos 3 años de existencia, IDRA ha obtenido la confianza de instituciones serias y logros importantes en el campo de la enseñanza, aportando significativamente a la capacitación técnica en temas fundamentales para el desarrollo personal e institucional de quienes los promueve, donde buscaremos siempre, nuestro real objetivo: “formar expertos para un mejor Estado”.</p>
-                <img src="images/nosotros.jpg" alt="" width="835" height="418" />
-              </div>
-              <div class="tab-pane fade" id="tabs-4-2">
-                <h4>Nuestra Mision</h4>
-                <p style="text-align: justify;"> IDRA es una institución dedicada a la enseñanza en temas relacionados a la administración pública, las Ciencias Sociales y jurídicas en los distintos ámbitos gubernamentales del país y sus instituciones. Las actividades académicas que realizamos buscan contribuir al mejoramiento de la función pública, acrecentando así los conocimientos, habilidades y aptitudes de los funcionarios y servidores de las organizaciones públicas y privadas.
-
-                  En cumplimiento de su misión institucional y promoviendo la pluralidad de enfoques interdisciplinarios, estamos realizando proyectos de investigación y consultorías en diversos campos cuyos resultados de dichas investigaciones serán difundidas a través de su anhelante labor editorial.
-
-                  A lo largo de estos 3 años de existencia, IDRA ha obtenido la confianza de instituciones serias y logros importantes en el campo de la enseñanza, aportando significativamente a la capacitación técnica en temas fundamentales para el desarrollo personal e institucional de quienes los promueve, donde buscaremos siempre, nuestro real objetivo: “formar expertos para un mejor Estado”.</p>
-                <img src="images/mision.png" alt="" width="835" height="418" />
-              </div>
-              <div class="tab-pane fade" id="tabs-4-3">
-                <h4>Nuestra Meta</h4>
-                <p style="text-align: justify;"> IDRA es una institución dedicada a la enseñanza en temas relacionados a la administración pública, las Ciencias Sociales y jurídicas en los distintos ámbitos gubernamentales del país y sus instituciones. Las actividades académicas que realizamos buscan contribuir al mejoramiento de la función pública, acrecentando así los conocimientos, habilidades y aptitudes de los funcionarios y servidores de las organizaciones públicas y privadas.
-
-                  En cumplimiento de su misión institucional y promoviendo la pluralidad de enfoques interdisciplinarios, estamos realizando proyectos de investigación y consultorías en diversos campos cuyos resultados de dichas investigaciones serán difundidas a través de su anhelante labor editorial.
-
-                  A lo largo de estos 3 años de existencia, IDRA ha obtenido la confianza de instituciones serias y logros importantes en el campo de la enseñanza, aportando significativamente a la capacitación técnica en temas fundamentales para el desarrollo personal e institucional de quienes los promueve, donde buscaremos siempre, nuestro real objetivo: “formar expertos para un mejor Estado”.</p>
-                <img src="images/metas.jpg" alt="" width="835" height="418" />
-              </div>
-              <div class="tab-pane fade" id="tabs-4-4">
-                <h4>Nuestros Valores</h4>
-                <p style="text-align: justify;">IDRA es una institución dedicada a la enseñanza en temas relacionados a la administración pública, las Ciencias Sociales y jurídicas en los distintos ámbitos gubernamentales del país y sus instituciones. Las actividades académicas que realizamos buscan contribuir al mejoramiento de la función pública, acrecentando así los conocimientos, habilidades y aptitudes de los funcionarios y servidores de las organizaciones públicas y privadas.
-
-                  En cumplimiento de su misión institucional y promoviendo la pluralidad de enfoques interdisciplinarios, estamos realizando proyectos de investigación y consultorías en diversos campos cuyos resultados de dichas investigaciones serán difundidas a través de su anhelante labor editorial.
-
-                  A lo largo de estos 3 años de existencia, IDRA ha obtenido la confianza de instituciones serias y logros importantes en el campo de la enseñanza, aportando significativamente a la capacitación técnica en temas fundamentales para el desarrollo personal e institucional de quienes los promueve, donde buscaremos siempre, nuestro real objetivo: “formar expertos para un mejor Estado”.</p>
-                <img src="images/valores.jpg" alt="" width="835" height="418" />
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </section>
 

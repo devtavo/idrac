@@ -5,6 +5,15 @@ div {
     border: 1em solid rgb(16, 0, 0);
 }
 
+.page {
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+    min-height: 100vh;
+    opacity: 0;
+    width: -webkit-fill-available;
+}
+
 
 /*
 *

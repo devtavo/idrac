@@ -189,7 +189,7 @@
                                                 <a href="#">Promociónes</a>
                                             </div>
                                         </li>
-                                        <!-- <li class="rd-nav-item"><a class="rd-nav-link" href="certi.php" target="_blank">Certificación</a> -->
+                                        <li class="rd-nav-item "><a class="rd-nav-link" href="inhouse.php" target="_blank">InHouse</a>
                                         </li>
                                         <!-- <li class="rd-nav-item dropdown"> <button class="dropbtn rd-nav-link">Dropdown</button>
                                             <div class="dropdown-content">
@@ -198,7 +198,7 @@
                                                 <a href="#">Link 3</a>
                                             </div>
                                         </li> -->
-                                        <li class="rd-nav-item"><a class="rd-nav-link" href="contacts.php">Contacto</a>
+                                        <li class="rd-nav-item "><a class="rd-nav-link" href="contacts.php">Contacto</a>
                                         </li>
                                     </ul>
                                 </div>

@@ -141,8 +141,9 @@
                                 </div>
                                 <div class="rd-navbar-main">
                                     <!-- RD Navbar Nav-->
-                                    <ul class="rd-navbar-nav">
-                                        <li class="rd-nav-item "><a class="rd-nav-link" href="index.php">Inicio</a>
+                                   <!-- RD Navbar Nav-->
+                                   <ul class="rd-navbar-nav">
+                                        <li class="rd-nav-item"><a class="rd-nav-link" href="index.php">Inicio</a>
                                         </li>
                                         <li class="rd-nav-item"><a class="rd-nav-link" href="nosotros.php">Nosotros</a>
                                         </li>
@@ -150,10 +151,10 @@
                                             <div class="dropdown-content">
                                                 <a href="programas.php">Programas</a>
                                                 <a href="#">Cursos</a>
-                                                <a href="#">Promoción</a>
+                                                <a href="#">Promociónes</a>
                                             </div>
                                         </li>
-                                        <!-- <li class="rd-nav-item "><a class="rd-nav-link" href="certi.php">Certificación</a> -->
+                                        <li class="rd-nav-item "><a class="rd-nav-link" href="inhouse.php" target="_blank">InHouse</a>
                                         </li>
                                         <!-- <li class="rd-nav-item dropdown"> <button class="dropbtn rd-nav-link">Dropdown</button>
                                             <div class="dropdown-content">
