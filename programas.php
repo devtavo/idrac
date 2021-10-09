@@ -142,20 +142,21 @@
                                 <div class="rd-navbar-main">
                                     <!-- RD Navbar Nav-->
                                    <!-- RD Navbar Nav-->
-                                   <ul class="rd-navbar-nav">
-                                        <li class="rd-nav-item"><a class="rd-nav-link" href="index.php">Inicio</a>
+                                  <ul class="rd-navbar-nav">
+                                        <li class="rd-nav-item active"><a class="rd-nav-link" href="index.php">Inicio</a>
                                         </li>
                                         <li class="rd-nav-item"><a class="rd-nav-link" href="nosotros.php">Nosotros</a>
                                         </li>
-                                        <li class="rd-nav-item active dropdown"> <button class="dropbtn rd-nav-link">Programación</button>
+                                        <li class="rd-nav-item dropdown"> <button class="dropbtn rd-nav-link">Programación</button>
                                             <div class="dropdown-content">
                                                 <a href="programas.php">Programas</a>
                                                 <a href="#">Cursos</a>
                                                 <a href="#">Promociónes</a>
                                             </div>
                                         </li>
-                                        <li class="rd-nav-item "><a class="rd-nav-link" href="inhouse.php" target="_blank">InHouse</a>
+                                        <li class="rd-nav-item "><a class="rd-nav-link" href="certi.php" target="_blank">Verificacion</a>
                                         </li>
+
                                         <!-- <li class="rd-nav-item dropdown"> <button class="dropbtn rd-nav-link">Dropdown</button>
                                             <div class="dropdown-content">
                                                 <a href="#">Link 1</a>
@@ -163,7 +164,7 @@
                                                 <a href="#">Link 3</a>
                                             </div>
                                         </li> -->
-                                        <li class="rd-nav-item"><a class="rd-nav-link" href="contacts.php">Contacto</a>
+                                        <li class="rd-nav-item "><a class="rd-nav-link" href="contacts.php">Contacto</a>
                                         </li>
                                     </ul>
                                 </div>

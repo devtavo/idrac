@@ -174,6 +174,7 @@
                                         <li>
                                             <button class="cabece aula" onclick="window.open('https://aula.idra.pe/login/index.php', '_blank');" style="font-size: 10px;">Aula Virtual IDRA</button>
                                         </li>
+
                                     </ul>
                                 </div>
                                 <div class="rd-navbar-main">
@@ -190,8 +191,9 @@
                                                 <a href="#">Promociónes</a>
                                             </div>
                                         </li>
-                                        <li class="rd-nav-item "><a class="rd-nav-link" href="inhouse.php" target="_blank">InHouse</a>
+                                        <li class="rd-nav-item "><a class="rd-nav-link" href="certi.php" target="_blank">Verificacion</a>
                                         </li>
+
                                         <!-- <li class="rd-nav-item dropdown"> <button class="dropbtn rd-nav-link">Dropdown</button>
                                             <div class="dropdown-content">
                                                 <a href="#">Link 1</a>
