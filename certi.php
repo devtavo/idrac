@@ -253,8 +253,9 @@ src="https://www.facebook.com/tr?id=368632364575709&ev=PageView&noscript=1"
 
         <div class="container-fluid">
             <div class="row justify-content-end">
-                <div class="col-lg-12">
-                <iframe src="http://idra.pe/certificado/users/certificados/index.php" width="100%" height="1100px" frameborder="0"></iframe>
+                <div class="col-md-12">
+                <!-- <iframe src="http://idra.pe/certificado/users/certificados/index.php" width="100%" height="1100px" frameborder="0"></iframe> -->
+                <iframe src="http://localhost/otro/verifica_idra/users/certificados/index.php" width="100%" height="1100px" frameborder="0"></iframe>
 
                 </div>
             </div>
