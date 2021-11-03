@@ -23,7 +23,7 @@ $client = new Lyra\Client();
  * I create a formToken
  */
 $store = array("amount" => 250, 
-"currency" => "EUR", 
+"currency" => "PEN", 
 "orderId" => uniqid("MyOrderId"),
 "customer" => array(
   "email" => "sample@example.com"

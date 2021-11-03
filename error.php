@@ -283,140 +283,59 @@ $formToken = $response["answer"]["formToken"];
             </div>
         </header>
 
-        <div class="container-fluid p-t-90" style="background:#132a49">
-            <div class="row">
-                <div class="col-lg-12" style="border: solid 1px;background-image: url(images/ban2s.jpg);margin: 0px;padding-right: 0px;padding-left: 0px;">
-
-                    <div class="container">
-                        <div class="col-lg-12">
-                            <div class="row">
-                                <div class="col-lg-8">
-                                    <p class="titulo-land">LEY DE PROCEDIMIENTO ADMINISTRATIVO GENERAL, LEY 27444</p>
-                                    <p class="contenido-land">Es el momento de que las empresas afronten la situación de emergencia que estamos viviendo para que las organizaciones no paren y sepan cómo integrar este cambio. Por eso desde IDRA Capacitaciones hemos lanzado una red
-                                        de Diplomados en Adminitracion en tiempo de crisis para ayudar a empresarios, directivos y manager a darle un giro a esta situación.</p>
-                                    <br>
-                                    <br>
-                                    <br>
-                                    <div class="row">
-                                        <div class="col">
-                                            <button class="what" onclick="window.open('https://api.whatsapp.com/send?phone=51916611364&fbclid=IwAR1k0KKGTwzz2ejChmYv_2N9znk_PVIcb0FtY51O1DIWj9tnMtwcSrK7fT8', '_blank');"><i class="fa fa-whatsapp"></i> Chat WhatsApp</button>
-                                        </div>
-                                        <div class="col">
-                                            <button class="what" style="margin-left: 0px; color: black; background: white;"><i class="fa fa-mobile"></i> Mas Información</button>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4">
-                                    <div class="margenvideo">
-                                        <br>
-                                        <div class="card" style="width: 22rem;">
-                                            <img class="card-img-top" src="images/248626286_1219385565236918_6287734033094109542_n.jpg" alt="Card image cap">
-                                            <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 15px; padding: 0px;"><b>LEY DE PROCEDIMIENTO ADMINISTRATIVO GENERAL, LEY 27444</b></div>
-                                            <hr>
-                                            <div style="margin-left:15px;">
-                                                <div class="modalidad">
-                                                    <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
-                                                </div>
-                                                <div class="modalidad">
-                                                    <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
-                                                </div>
-                                                <div class="modalidad">
-                                                    <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
-                                                            <g id="cards-certificado" transform="translate(-313.232 -100.44)">
-                                                                <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
-                                                                <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
-                                                                <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
-                                                                <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
-                                                                <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
-                                                                <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
-                                                            </g>
-                                                        </svg> Certifica: IDRA Capacitaciones</span>
-                                                </div>
-                                            </div>
-                                            <hr>
-                                            <div class="row" style="margin: 0px;">
-                                                <div class="col">
-                                                    <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
-                                                    <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
-                                                </div>
-                                                <div class="col">
-                                                    <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                    <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
-                                                </div>
-                                            </div>
-                                            <br>
-                                            <!-- <button data-toggle="modal" data-target="#myModal"> ddd</button> -->
-                                            <a href="curso2.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Comprar</a>
-
-                                            <!-- <div class="kr-embedded" kr-popin kr-form-token="<?php echo $formToken; ?>">Custom label</div> -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="row">
-                                <div class="col-lg-6">
-
-                                </div>
-                                <div class="col-lg-6">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="container" style="z-index: -1;">
+        <div class="container">
             <br>
             <div class="row">
-                <div class="col-lg-8">
-                    <div class="descripcion-bloque">
-                        <p class="descripcion-titulo">¿Por qué participar en este Diplomado?</p>
-                        <p class="descripcion-contenido">El curso tiene como objetivo brindar capacitación especializada en obras públicas, que se ejecutan en el marco de la Ley N° 30225 - Ley de Contrataciones del Estado y su modificatorias vigentes, que permita aplicarla durante la gestión
-                            pública.
-                        </p>
-                    </div>
-                    <div class="presentacion-bloque">
-                        <ul class="nav nav-tabs" id="myTab" role="tablist">
-                            <li class="nav-item" role="presentation">
-                                <a class="nav-link nav-links active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Temario</a>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <a class="nav-link nav-links" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Modalidad</a>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <a class="nav-link nav-links" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Docente</a>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <a class="nav-link nav-links" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Certificación</a>
-                            </li>
-
-                        </ul>
-                        <div class="tab-content" id="myTabContent">
-                            <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate odit magni eaque unde, natus excepturi obcaecati accusantium in totam saepe aut corporis voluptas culpa magnam quae et officiis, ex quos!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate odit magni eaque unde, natus excepturi obcaecati accusantium in totam saepe aut corporis voluptas culpa magnam quae et officiis, ex quos!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate odit magni eaque unde, natus excepturi obcaecati accusantium in totam saepe aut corporis voluptas culpa magnam quae et officiis, ex quos!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate odit magni eaque unde, natus excepturi obcaecati accusantium in totam saepe aut corporis voluptas culpa magnam quae et officiis, ex quos!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate odit magni eaque unde, natus excepturi obcaecati accusantium in totam saepe aut corporis voluptas culpa magnam quae et officiis, ex quos!
-
-                            </div>
-                            <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-
-                            </div>
-                            <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-
-                            </div>
-                        </div>
-                    </div>
+                <div class="col-lg-10">
+                    <p><h5>Términos y Condiciones de uso</h5></p>
+                    <p style="text-align:justify">
+                        Es requisito necesario para la adquisición de los productos que se ofrecen en este sitio, que lea y acepte los siguientes Términos y Condiciones que a continuación se redactan. El uso de nuestros servicios, así como la compra de nuestros productos implicará que usted ha leído y aceptado los Términos y Condiciones de Uso en el presente documento. Todos los productos que son ofrecidos por nuestro sitio web pudieran ser creadas, cobradas, enviadas o presentadas por una página web tercera y en tal caso estarían sujetas a sus propios Términos y Condiciones. En algunos casos, para adquirir un producto, será necesario el registro por parte del usuario, con ingreso de datos personales fidedignos y definición de una contraseña.
+                            <br>
+                        El usuario puede elegir y cambiar la clave para su acceso de administración de la cuenta en cualquier momento, en caso de que se haya registrado y que sea necesario para la compra de alguno de nuestros productos. IDRA Capacitaciones no asume la responsabilidad en caso de que usted entregue dicha clave a terceros.
+<br><br>
+                        Todas las compras y transacciones que se lleven a cabo por medio de este sitio web, están sujetas a un proceso de confirmación y verificación, el cual podría incluir la verificación del stock y disponibilidad de producto, validación de la forma de pago, validación de la factura (en caso de existir) y el cumplimiento de las condiciones requeridas por el medio de pago seleccionado. En algunos casos puede que se requiera una verificación por medio de correo electrónico.
+<br><br>
+                        Los precios de los productos ofrecidos en esta Tienda Online son válidos solamente en las compras realizadas en este sitio web.
+<br><br>
+                        Licencia
+                        IDRA Capacitaciones a través de su sitio web concede una licencia para que los usuarios utilicen los productos que son vendidos en este sitio web de acuerdo a los Términos y Condiciones que se describen en este documento.
+<br><br>
+                        Uso no autorizado
+                        Usted no puede colocar uno de nuestros productos, modificado o sin modificar, en un CD, sitio web o ningún otro medio y ofrecerlos para la redistribución o la reventa de ningún tipo.
+<br><br>
+                        Propiedad
+                        Usted no puede declarar propiedad intelectual o exclusiva a ninguno de nuestros productos, modificado o sin modificar. Todos los productos son propiedad de los proveedores del contenido. En caso de que no se especifique lo contrario, nuestros productos se proporcionan sin ningún tipo de garantía, expresa o implícita.
+                        <br><br>
+                        En ningún caso IDRA Capacitaciones será responsable de ningún daño incluyendo, pero no limitado a, daños directos, indirectos, especiales, fortuitos o consecuentes u otras pérdidas resultantes del uso o de la imposibilidad de utilizar nuestros productos.
+                        <br><br>
+                        Formas de pago
+                        IDRA Capacitaciones se reserva el derecho de contratar a terceros que actúen como facilitadores para gestionar los pagos que se realicen a través de este sitio web. Asimismo, IDRA Capacitaciones procederá primero a verificar que el pago se haya realizado exitosamente para proceder con la inscripción.
+                        <br><br>
+                        Las siguientes formas de pago están permitidas en este sitio web:
+                            <br><br>
+                        Pago en línea
+                        El usuario podrá efectuar el pago usando una tarjeta de crédito y/o débito a través de las pasarelas de pago habilitadas en este sitio web.
+                        <br><br>
+                        Depósito, Transferencia o Billetera Móvil
+                        Para este procedimiento es necesario que usted envíe el voucher. En el caso de depósitos y transferencias interbancarias, el monto de la compra no incluye la comisión del banco. Por ello, usted debe revisar primero las comisiones del banco antes de realizar el depósito o transferencia.
+                        <br><br>
+                        El proceso de confirmación de la compra puede durar hasta 24 horas hábiles desde el momento que envía el comprobante por este sitio web.
+                        <br><br>
+                        Política de reembolso y garantía
+                        En el caso de productos que sean mercancías irrevocables no-tangibles, no realizamos reembolsos después de que se envíe el producto, usted tiene la responsabilidad de entender antes de comprarlo. Le pedimos que lea cuidadosamente antes de comprarlo. Hacemos solamente excepciones con esta regla cuando la descripción no se ajusta al producto. Hay algunos productos que pudieran tener garantía y posibilidad de reembolso, pero este será especificado al comprar el producto.
+                        <br><br>
+                        Comprobación antifraude
+                        La compra del cliente puede ser aplazada para la comprobación antifraude. También puede ser suspendida por más tiempo para una investigación más rigurosa, para evitar transacciones fraudulentas.
+                        <br><br>
+                        Privacidad
+                        Este sitio web garantiza que la información personal que usted envía cuenta con la seguridad necesaria. Los datos ingresados por usuario o en el caso de requerir una validación de los pedidos no serán entregados a terceros, salvo que deba ser revelada en cumplimiento a una orden judicial o requerimientos legales. La suscripción a boletines de correos electrónicos publicitarios es voluntaria y podría ser seleccionada al momento de crear su cuenta. IDRA Capacitaciones reserva los derechos de cambiar o de modificar estos términos sin previo aviso.
+                        <br> <br> </p>
+                    <br>
                 </div>
-
             </div>
+
         </div>
 
-               <br>
         <footer class="section footer-modern context-dark footer-modern-2">
             <div class="footer-modern-line">
                 <div class="container">

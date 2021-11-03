@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html class="wide wow-animation" lang="en">
 
 <head>
@@ -7,15 +8,17 @@
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
-	<meta name="facebook-domain-verification" content="ilkvm5cd762xys09bx4kaw74ncsobw" />
+    <meta name="facebook-domain-verification" content="ilkvm5cd762xys09bx4kaw74ncsobw" />
     <link rel="icon" href="images/logo.ico" type="image/png" />
 
+   
     <!-- Stylesheets-->
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:100,300,300i,400,500,600,700,900%7CRaleway:500">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/fonts.css">
     <link rel="stylesheet" href="css/style.css">
+
     <!--[if lt IE 10]>
     <div style="background: #212121; padding: 10px 0; box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3); clear: both; text-align:center; position: relative; z-index:1;"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
     <script src="js/html5shiv.min.js"></script>
@@ -123,6 +126,7 @@
         <!-- Top Banner -->
         <!-- <a class="section section-banner text-center d-none d-xl-block" href="https://www.templatemonster.com/intense-multipurpose-html-template.html" style="background-image: url(images/banner/background-04-1920x60.jpg); background-image: -webkit-image-set( url(images/banner/background-04-1920x60.jpg) 1x, url(images/banner/background-04-3840x120.jpg) 2x )"><img src="images/banner/foreground-04-1600x60.png" srcset="images/banner/foreground-04-1600x60.png 1x, images/banner/foreground-04-3200x120.png 2x" alt="" width="1600" height="310"></a> -->
         <!-- Page Header -->
+       
         <header class="section page-header">
             <!-- RD Navbar-->
             <div class="rd-navbar-wrap">
@@ -372,7 +376,7 @@
                             <br>
                             <br>
                             <div class="inner_items_section_carrusel">
-                                <h5 class="programas">Programas virtuales</h5>
+                                <h5 class="programas">Diplomados virtuales</h5>
                                 <p class="programas">Organiza tu horario y ritmo de estudio de acuerdo a tus posibilidades. Podrás visualizar en vídeo todas las clases que desarrollarán los expositores, además podrás acceder a las dispositivas, enlaces de interés e información relacionada del programa.</p>
                                 <div class="btn_and_arros mt-35 programas">
                                     <br>
@@ -428,10 +432,12 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
+
                                                 </div>
                                             </div>
                                         </div>
+
                                         <div class="carousel-item col-md-4">
                                             <div class="card">
                                                 <img class="card-img-top img-fluid" src="images/img/darbicontra.jpg" width="370px" height="150px" alt="Card image cap">
@@ -793,7 +799,7 @@
                                             </div>
                                         </div>
                                         <div class="carousel-item col-md-4">
-                                            <div class="card">
+                                            <div class="card" style="width: 18rem;">
                                                 <img class="card-img-top img-fluid" src="images/img/dggubernamental.jpg" width="370px" height="150px" alt="Card image cap">
                                                 <div class="card-body">
                                                     <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa en Gestión Gubernamental</b></div>

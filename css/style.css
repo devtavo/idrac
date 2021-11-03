@@ -6940,7 +6940,7 @@ html:not(.lt-ie10) .not-animated {
     bottom: 0;
     right: 0;
     visibility: hidden;
-    z-index: 10000;
+    z-index: 1;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -8178,7 +8178,7 @@ html.tablet .ui-to-top {
 .rd-navbar-fixed .rd-navbar-collapse-toggle {
     display: block;
     top: 4px;
-    z-index: 1071;
+    z-index: 1;
 }
 
 .rd-navbar-fixed .rd-navbar-collapse {
@@ -17229,10 +17229,9 @@ section.pricing {
 /* Landing page de cada curso */
 
 .titulo-land {
-    font-size: 40px;
+    font-size: 28px;
     color: white;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
     line-height: 55px;
     padding-top: 10px;
     padding-left: 28px;
@@ -17250,7 +17249,12 @@ section.pricing {
 }
 
 .margenvideo {
-    margin: 30px;
+    position: fixed;
+    width: 500px;
+    height:50px;  
+} 
+.img-card-r{
+    border-radius: 0 0 7px 7px;
 }
 
 .what {
@@ -17300,7 +17304,7 @@ section.pricing {
 .descripcion-titulo {
     color: rgba(17, 1, 107, 0.796);
     font-weight: 700;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 1.5em;
 }
 
@@ -17316,6 +17320,8 @@ section.pricing {
     text-align: center;
     padding-left: 10px;
     padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border-radius: 8px;
     background: #0C1F4C;
 }
@@ -17325,9 +17331,6 @@ section.pricing {
     color: white;
 }
 
-.nav-item {
-    margin: 20px;
-}
 
 .tab-content {
     background: white;
@@ -17335,7 +17338,7 @@ section.pricing {
 
 .nav-links {
     color: white;
-    background: blue;
+    background: #0C1F4C;
     padding-left: 40px;
     padding-right: 40px;
     padding-top: 10px;
@@ -17348,7 +17351,7 @@ section.pricing {
 .cabec {
     background-color: #304e9c;
     color: white;
-    z-index: 9999;
+    z-index: 1;
     position: relative;
 }
 
@@ -17675,120 +17678,3 @@ section.pricing {
 
 
 /* Landing page de cada curso */
-
-.titulo-land {
-    font-size: 40px;
-    color: white;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-weight: 600;
-    line-height: 55px;
-    padding-top: 10px;
-    padding-left: 28px;
-    padding-right: 28px;
-    text-align: inherit;
-}
-
-.contenido-land {
-    font-size: 16px;
-    padding-left: 28px;
-    color: white;
-    padding-right: 28px;
-    font-weight: 600;
-    text-align: justify;
-}
-
-.margenvideo {
-    margin: 30px;
-}
-
-.what {
-    background: #06D755;
-    border-radius: 10px;
-    border: 0px;
-    color: white;
-    padding: 10px;
-    margin-left: 28px;
-    width: 14em;
-    margin-bottom: 7em;
-}
-
-.barra {
-    position: relative;
-    top: -80px;
-    left: 20px;
-    background: rgb(250, 248, 248);
-    border-radius: 20px;
-    padding: 20px;
-    box-shadow: 0px 0px 20 px 10px rgba(0, 0, 0, 0.16);
-}
-
-.caracteristica {
-    font-size: 1.2em;
-    font-weight: 900;
-    text-align: center;
-    color: rgb(16, 43, 3);
-    font-family: 'Roboto', sans-serif;
-    margin-top: 0.7em;
-}
-
-.caracteristica-alt {
-    font-size: 10px;
-    font-weight: 900;
-    text-align: center;
-    color: rgb(30, 1, 133);
-    font-family: 'Roboto', sans-serif;
-}
-
-.descripcion-bloque {
-    padding: 20px;
-    border-radius: 10px;
-    background: rgba(128, 128, 128, 0.248);
-}
-
-.descripcion-titulo {
-    color: rgba(17, 1, 107, 0.796);
-    font-weight: 700;
-    font-family: 'Roboto', sans-serif;
-    font-size: 1.5em;
-}
-
-.descripcion-contenido {
-    font-weight: 500;
-    font-family: 'Roboto', sans-serif;
-    font-size: 1.05em;
-    color: rgb(82, 81, 81);
-}
-
-.presentacion-bloque {
-    margin-top: 5px;
-    text-align: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    border-radius: 8px;
-    background: #0C1F4C;
-}
-
-.nav-tabs {
-    border: 0px;
-    color: white;
-}
-
-.nav-item {
-    margin: 20px;
-}
-
-.tab-content {
-    background: white;
-}
-
-.nav-links {
-    color: white;
-    background: blue;
-    padding-left: 40px;
-    padding-right: 40px;
-    padding-top: 10px;
-}
-
-.formatos {
-    padding-left: 350px;
-}

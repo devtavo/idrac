@@ -23,7 +23,7 @@ $client = new Lyra\Client();
  * I create a formToken
  */
 $store = array("amount" => 250, 
-"currency" => "EUR", 
+"currency" => "PEN", 
 "orderId" => uniqid("MyOrderId"),
 "customer" => array(
   "email" => "sample@example.com"
@@ -65,6 +65,7 @@ $formToken = $response["answer"]["formToken"];
    src="<?php echo $client->getClientEndpoint();?>/static/js/krypton-client/V4.0/ext/material.js">
   </script>
 </head>
+
 <body style="padding-top:20px">
   <!-- payment form -->
   <div class="kr-embedded"

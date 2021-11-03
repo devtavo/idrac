@@ -22,3 +22,16 @@ $(document).ready(function() {
         }
     });
 });
+
+$('[name="dip"]').click(function () {
+
+
+});
+
+// $(document).ready(function() {
+     
+//     KR.onFormCreated(e){
+//         console.log(e);
+//     }
+
+// });

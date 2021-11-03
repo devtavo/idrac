@@ -24,7 +24,7 @@ $client = new Lyra\Client();
  * I create a formToken
  */
 $store = array(
-    "amount" => 9999,
+    "amount" => 24900,
     "currency" => "PEN",
     "orderId" => uniqid("MyOrderId"),
     "customer" => array(
@@ -65,7 +65,7 @@ $formToken = $response["answer"]["formToken"];
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/fonts.css">
     <link rel="stylesheet" href="css/style.css">
-    <script src="<?php echo $client->getClientEndpoint(); ?>/static/js/krypton-client/V4.0/stable/kr-payment-form.min.js" kr-public-key="<?php echo $client->getPublicKey(); ?>" kr-post-url-success="paid.php">
+    <script src="<?php echo $client->getClientEndpoint(); ?>/static/js/krypton-client/V4.0/stable/kr-payment-form.min.js" kr-public-key="<?php echo $client->getPublicKey(); ?>" kr-post-url-success="prueba_apiv2/www/paid_new.php">
     </script>
 
     <!-- theme and plugins. should be loaded after the javascript library -->
@@ -283,140 +283,94 @@ $formToken = $response["answer"]["formToken"];
             </div>
         </header>
 
-        <div class="container-fluid p-t-90" style="background:#132a49">
-            <div class="row">
-                <div class="col-lg-12" style="border: solid 1px;background-image: url(images/ban2s.jpg);margin: 0px;padding-right: 0px;padding-left: 0px;">
-
-                    <div class="container">
-                        <div class="col-lg-12">
-                            <div class="row">
-                                <div class="col-lg-8">
-                                    <p class="titulo-land">LEY DE PROCEDIMIENTO ADMINISTRATIVO GENERAL, LEY 27444</p>
-                                    <p class="contenido-land">Es el momento de que las empresas afronten la situación de emergencia que estamos viviendo para que las organizaciones no paren y sepan cómo integrar este cambio. Por eso desde IDRA Capacitaciones hemos lanzado una red
-                                        de Diplomados en Adminitracion en tiempo de crisis para ayudar a empresarios, directivos y manager a darle un giro a esta situación.</p>
-                                    <br>
-                                    <br>
-                                    <br>
-                                    <div class="row">
-                                        <div class="col">
-                                            <button class="what" onclick="window.open('https://api.whatsapp.com/send?phone=51916611364&fbclid=IwAR1k0KKGTwzz2ejChmYv_2N9znk_PVIcb0FtY51O1DIWj9tnMtwcSrK7fT8', '_blank');"><i class="fa fa-whatsapp"></i> Chat WhatsApp</button>
-                                        </div>
-                                        <div class="col">
-                                            <button class="what" style="margin-left: 0px; color: black; background: white;"><i class="fa fa-mobile"></i> Mas Información</button>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4">
-                                    <div class="margenvideo">
-                                        <br>
-                                        <div class="card" style="width: 22rem;">
-                                            <img class="card-img-top" src="images/248626286_1219385565236918_6287734033094109542_n.jpg" alt="Card image cap">
-                                            <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 15px; padding: 0px;"><b>LEY DE PROCEDIMIENTO ADMINISTRATIVO GENERAL, LEY 27444</b></div>
-                                            <hr>
-                                            <div style="margin-left:15px;">
-                                                <div class="modalidad">
-                                                    <span class="modalidad"> <i class="fas fa-video" style="color: red;"></i> Modalidad: Virtual - Grabado</span>
-                                                </div>
-                                                <div class="modalidad">
-                                                    <span class="modalidad"> <i class="fas fa-graduation-cap" style="color: rgba(5, 4, 94, 0.836) ;"></i> Certificación: 120 horas</span>
-                                                </div>
-                                                <div class="modalidad">
-                                                    <span class="modalidad"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 28.25 24.432">
-                                                            <g id="cards-certificado" transform="translate(-313.232 -100.44)">
-                                                                <path id="Trazado_532" data-name="Trazado 532" d="M340.4,100.566H314.314a.958.958,0,0,0-.957.957v20a.959.959,0,0,0,.957.957h17.658v1.857a.411.411,0,0,0,.583.372l1-.466,1,.466a.418.418,0,0,0,.549-.219.41.41,0,0,0,.034-.153V122.48h5.256a.959.959,0,0,0,.963-.953v-20A.957.957,0,0,0,340.4,100.566Zm-6.081,23.129-.592-.276a.41.41,0,0,0-.346,0l-.593.276v-5.05a.918.918,0,0,0,1.531,0Zm.125-6.283a1.629,1.629,0,0,0-.593.519,1.579,1.579,0,0,1-.3.3,1.551,1.551,0,0,1-.3-.3,1.637,1.637,0,0,0-.593-.519,1.793,1.793,0,0,0-.807-.059h.006c-.411.036-.43.014-.395-.4a1.415,1.415,0,0,0-.576-1.4c-.333-.277-.333-.32,0-.6a1.416,1.416,0,0,0,.576-1.4c-.036-.411-.016-.432.395-.4a1.414,1.414,0,0,0,1.4-.578c.275-.333.318-.333.593,0a1.414,1.414,0,0,0,1.4.578c.411-.036.431-.014.395.4a1.416,1.416,0,0,0,.576,1.4c.333.277.333.32,0,.6a1.415,1.415,0,0,0-.576,1.4c.036.41.016.432-.394.4A1.711,1.711,0,0,0,334.444,117.412Zm6.093,4.11a.137.137,0,0,1-.137.137h-5.256v-3.5h.039a1,1,0,0,0,1.283-1.285.621.621,0,0,1,.284-.7,1.062,1.062,0,0,0,0-1.858.624.624,0,0,1-.284-.7c.08-.918-.348-1.367-1.283-1.285a.62.62,0,0,1-.7-.284,1.06,1.06,0,0,0-1.857,0,.62.62,0,0,1-.7.284c-.918-.08-1.365.35-1.283,1.285a.624.624,0,0,1-.284.7,1.063,1.063,0,0,0,0,1.858.623.623,0,0,1,.284.7c-.086.983.383,1.363,1.323,1.282v1.82l.006.83v.854H314.314a.137.137,0,0,1-.137-.137v-20a.137.137,0,0,1,.137-.137H340.4a.137.137,0,0,1,.137.137Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
-                                                                <path id="Trazado_414" data-name="Trazado 414" d="M317.337,106.656H335.1a.515.515,0,0,0,0-1.03H317.337a.515.515,0,0,0,0,1.03Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
-                                                                <path id="Trazado_415" data-name="Trazado 415" d="M335.19,108.613c0-.284-.158-.515-.353-.515H319.881c-.457,0-.457,1.03,0,1.03h14.956C335.032,109.126,335.19,108.9,335.19,108.613Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
-                                                                <path id="Trazado_416" data-name="Trazado 416" d="M330.908,111.086a.515.515,0,0,0-.515-.515H318a.515.515,0,0,0,0,1.03h12.391a.516.516,0,0,0,.516-.514Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
-                                                                <path id="Trazado_417" data-name="Trazado 417" d="M324.392,116.842h-.847c-.54,0-.838-.144-.948-.717-.1-.523-.855-.456-.993,0-.061.2-.371.781-.641.734-.143-.025-.206-.246-.258-.36a4.4,4.4,0,0,1-.242-.695c-.271-1-.325-2.041-.5-3.058-.1-.59-1-.423-1.012.137a15.754,15.754,0,0,1-.973,5.216c-.236.621.76.889.994.274a14.641,14.641,0,0,0,.59-1.975,5.221,5.221,0,0,0,.3.717,1.227,1.227,0,0,0,1.571.682,1.773,1.773,0,0,0,.63-.46,2.277,2.277,0,0,0,1.889.536l3.06-.007a.516.516,0,0,0,0-1.03l-2.624.006Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
-                                                                <path id="Trazado_418" data-name="Trazado 418" d="M333.554,116.522a1.368,1.368,0,1,0-1.368-1.367A1.367,1.367,0,0,0,333.554,116.522Zm0-2.035a.667.667,0,1,1-.668.668.668.668,0,0,1,.668-.668Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"></path>
-                                                            </g>
-                                                        </svg> Certifica: IDRA Capacitaciones</span>
-                                                </div>
-                                            </div>
-                                            <hr>
-                                            <div class="row" style="margin: 0px;">
-                                                <div class="col">
-                                                    <div style="font-family: 'Lato', sans-serif; font-size: 19px; "><i class="far fa-calendar-alt"></i> Inicia</div>
-                                                    <div class="text-danger text-center" style="padding-bottom: 00px; font-family: 'Lato', sans-serif; font-size: 25px;color: red;"> <b> Ahora!</b></div>
-                                                </div>
-                                                <div class="col">
-                                                    <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                    <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
-                                                </div>
-                                            </div>
-                                            <br>
-                                            <!-- <button data-toggle="modal" data-target="#myModal"> ddd</button> -->
-                                            <a href="curso2.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Comprar</a>
-
-                                            <!-- <div class="kr-embedded" kr-popin kr-form-token="<?php echo $formToken; ?>">Custom label</div> -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="row">
-                                <div class="col-lg-6">
-
-                                </div>
-                                <div class="col-lg-6">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="container" style="z-index: -1;">
+        <div class="container">
             <br>
             <div class="row">
                 <div class="col-lg-8">
-                    <div class="descripcion-bloque">
-                        <p class="descripcion-titulo">¿Por qué participar en este Diplomado?</p>
-                        <p class="descripcion-contenido">El curso tiene como objetivo brindar capacitación especializada en obras públicas, que se ejecutan en el marco de la Ley N° 30225 - Ley de Contrataciones del Estado y su modificatorias vigentes, que permita aplicarla durante la gestión
-                            pública.
-                        </p>
+                    <div class="card">
+                        <h5 class="heading-4">Registro de datos</h5>
+                        <div class="card-body">
+                            <form class="rd-form rd-mailform form-style-1" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
+                                <div class="row row-20 gutters-20">
+                                    <div class="col-md-6 col-lg-4 oh-desktop">
+                                        <div class="form-wrap wow slideInDown">
+                                            <input class="form-input" id="contact-your-name-6" type="text" name="name" data-constraints="@Required">
+                                            <label class="form-label" for="contact-your-name-6">Nombre</label>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-lg-4 oh-desktop">
+                                        <div class="form-wrap wow slideInUp">
+                                            <input class="form-input" id="contact-email-6" type="email" name="email" data-constraints="@Correo @Required">
+                                            <label class="form-label" for="contact-email-6">Correo</label>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-lg-4 oh-desktop">
+                                        <div class="form-wrap wow slideInUp">
+                                            <input class="form-input" id="contact-email-6" type="text" name="celular" data-constraints="@Celular @Required">
+                                            <label class="form-label" for="contact-email-6">Celular</label>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="col-12">
+                                        <div class="form-wrap wow fadeIn">
+                                            <label class="form-label" for="contact-message-6">Mensaje</label>
+                                            <textarea class="form-input textarea-lg" id="msn" name="msn" data-constraints="@Required"></textarea>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row row-20 gutters-20">
+                                    <p> <input type="checkbox" name="verificacion" id="verificacion"></input> leído y estoy de acuerdo con los <a href="/otro/idrac/terminos.php">Términos y Condiciones del servicio.</a></p>
+                                </div>
+                            </form>
+                        </div>
                     </div>
-                    <div class="presentacion-bloque">
-                        <ul class="nav nav-tabs" id="myTab" role="tablist">
-                            <li class="nav-item" role="presentation">
-                                <a class="nav-link nav-links active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Temario</a>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <a class="nav-link nav-links" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Modalidad</a>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <a class="nav-link nav-links" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Docente</a>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <a class="nav-link nav-links" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Certificación</a>
-                            </li>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card">
+                        <img class="card-img-top" src="images/248626286_1219385565236918_6287734033094109542_n.jpg" width="320px" height="120px" alt="Card image cap">
+                        <div class="card-body">
+                            <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa en Oralidad en el Proceso Civil</b></div>
+                            <hr>
+                            <div class="kr-embedded" kr-popin kr-form-token="<?php echo $formToken; ?>">
+                                <div class="kr-pan"></div>
+                                <div class="kr-expiry"></div>
+                                <div class="kr-security-code"></div>
+                                <button class="kr-payment-button"></button>
 
-                        </ul>
-                        <div class="tab-content" id="myTabContent">
-                            <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate odit magni eaque unde, natus excepturi obcaecati accusantium in totam saepe aut corporis voluptas culpa magnam quae et officiis, ex quos!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate odit magni eaque unde, natus excepturi obcaecati accusantium in totam saepe aut corporis voluptas culpa magnam quae et officiis, ex quos!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate odit magni eaque unde, natus excepturi obcaecati accusantium in totam saepe aut corporis voluptas culpa magnam quae et officiis, ex quos!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate odit magni eaque unde, natus excepturi obcaecati accusantium in totam saepe aut corporis voluptas culpa magnam quae et officiis, ex quos!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate odit magni eaque unde, natus excepturi obcaecati accusantium in totam saepe aut corporis voluptas culpa magnam quae et officiis, ex quos!
-
-                            </div>
-                            <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-
-                            </div>
-                            <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-
+                                <div class="kr-form-error"></div>
                             </div>
                         </div>
                     </div>
                 </div>
 
             </div>
+
         </div>
 
-               <br>
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="kr-pan"></div>
+                        <div class="kr-expiry"></div>
+                        <div class="kr-security-code"></div>
+
+                        <button class="kr-payment-button"></button>
+
+                        <div class="kr-form-error"></div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary">Save changes</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
         <footer class="section footer-modern context-dark footer-modern-2">
             <div class="footer-modern-line">
                 <div class="container">

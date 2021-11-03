@@ -22,8 +22,8 @@ $client = new Lyra\Client();
 /**
  * I create a formToken
  */
-$store = array("amount" => 250, 
-"currency" => "EUR", 
+$store = array("amount" => 9999, 
+"currency" => "PEN", 
 "orderId" => uniqid("MyOrderId"),
 "customer" => array(
   "email" => "sample@example.com"
@@ -66,6 +66,7 @@ $formToken = $response["answer"]["formToken"];
   </script>
 </head>
 <body style="padding-top:20px">
+
   <!-- payment form -->
   <div class="kr-embedded"
    kr-popin
