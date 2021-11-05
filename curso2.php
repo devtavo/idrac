@@ -24,7 +24,7 @@ $client = new Lyra\Client();
  * I create a formToken
  */
 $store = array(
-    "amount" => 24900,
+    "amount" => 9900,
     "currency" => "PEN",
     "orderId" => uniqid("MyOrderId"),
     "customer" => array(
@@ -327,9 +327,9 @@ $formToken = $response["answer"]["formToken"];
                 </div>
                 <div class="col-lg-4">
                     <div class="card">
-                        <img class="card-img-top" src="images/248626286_1219385565236918_6287734033094109542_n.jpg" width="320px" height="120px" alt="Card image cap">
+                        <img class="card-img-top" src="images/nosotros.jpg" width="320px" height="120px" alt="Card image cap">
                         <div class="card-body">
-                            <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Programa en Oralidad en el Proceso Civil</b></div>
+                            <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 0px; padding: 0px;"><b>Diplomado escogido:</b></div>
                             <hr>
                             <div class="kr-embedded" kr-popin kr-form-token="<?php echo $formToken; ?>">
                                 <div class="kr-pan"></div>

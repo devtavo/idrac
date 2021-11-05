@@ -310,7 +310,7 @@ $formToken = $response["answer"]["formToken"];
                                     <div class="margenvideo">
                                         <br>
                                         <div class="card" style="width: 22rem;">
-                                            <img class="card-img-top" src="images/248626286_1219385565236918_6287734033094109542_n.jpg" alt="Card image cap">
+                                            <img class="card-img-top" src="images/nosotros.jpg" alt="Card image cap">
                                             <div class="card-title text-uppercase text-center" style="color: rgba(5, 4, 94, 0.836);margin: 15px; padding: 0px;"><b>LEY DE PROCEDIMIENTO ADMINISTRATIVO GENERAL, LEY 27444</b></div>
                                             <hr>
                                             <div style="margin-left:15px;">

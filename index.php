@@ -474,7 +474,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -514,7 +514,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -554,7 +554,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -594,7 +594,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -634,7 +634,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -674,7 +674,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -714,7 +714,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -754,7 +754,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -794,7 +794,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -834,7 +834,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -874,7 +874,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -914,7 +914,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -954,7 +954,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -994,7 +994,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1034,7 +1034,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1074,7 +1074,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1114,7 +1114,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1154,7 +1154,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1194,7 +1194,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1234,7 +1234,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1274,7 +1274,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1314,7 +1314,7 @@
                                                         </div>
                                                     </div>
                                                     <br>
-                                                    <a href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank" class="btn btn-block text-uppercase " style="background-color:#004396;">Más Información</a>
+                                                    <a href="curso1.php" target="" class="btn btn-block text-uppercase" id="dip" name="dip" style="background-color:#004396;">Más Información</a>
                                                 </div>
                                             </div>
                                         </div>
