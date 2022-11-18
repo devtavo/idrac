@@ -428,7 +428,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -470,7 +470,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -510,7 +510,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -550,7 +550,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -590,7 +590,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -630,7 +630,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -670,7 +670,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -710,7 +710,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -750,7 +750,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -790,7 +790,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -830,7 +830,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -870,7 +870,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -910,7 +910,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -950,7 +950,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -990,7 +990,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1030,7 +1030,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1070,7 +1070,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1110,7 +1110,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1150,7 +1150,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1190,7 +1190,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1230,7 +1230,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1270,7 +1270,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1310,7 +1310,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/99.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/250.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1401,7 +1401,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1441,7 +1441,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1481,7 +1481,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1521,7 +1521,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1561,7 +1561,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1601,7 +1601,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1641,7 +1641,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1681,7 +1681,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1721,7 +1721,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1762,7 +1762,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1802,7 +1802,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1842,7 +1842,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1882,7 +1882,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1922,7 +1922,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -1962,7 +1962,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2002,7 +2002,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2042,7 +2042,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2082,7 +2082,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2122,7 +2122,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2162,7 +2162,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2202,7 +2202,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2242,7 +2242,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2282,7 +2282,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2322,7 +2322,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2362,7 +2362,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2402,7 +2402,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2442,7 +2442,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2482,7 +2482,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2522,7 +2522,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2562,7 +2562,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2602,7 +2602,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2642,7 +2642,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2682,7 +2682,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2722,7 +2722,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2762,7 +2762,7 @@
                                                         </div>
                                                         <div class="col">
                                                             <div style="font-family: 'Lato', sans-serif; ; font-size: 19px; "><i class="fas fa-tag"></i> Precio</div>
-                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/49.00</div>
+                                                            <div class="text-center" style="padding-bottom: 0px; font-family: 'Lato', sans-serif; font-size: 25px;">S/150.00</div>
                                                         </div>
                                                     </div>
                                                     <br>
@@ -2894,7 +2894,7 @@
                             </div>
                             <h6 class="product-title">Curso Derecho Municipal</h6>
                             <div class="product-price-wrap">
-                                <div class="product-price">S/ 99.00</div>
+                                <div class="product-price">S/ 250.00</div>
                             </div>
                             <div class="product-button">
                                 <div class="button-wrap">
@@ -2911,7 +2911,7 @@
                             </div>
                             <h6 class="product-title">Curso Derecho Municipal</h6>
                             <div class="product-price-wrap">
-                                <div class="product-price">S/ 99.00</div>
+                                <div class="product-price">S/ 250.00</div>
                             </div>
                             <div class="product-button">
                                 <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank">Inscripciones</a></div>
@@ -2926,7 +2926,7 @@
                             </div>
                             <h6 class="product-title">Curso Derecho Municipal</h6>
                             <div class="product-price-wrap">
-                                <div class="product-price">S/ 99.00</div>
+                                <div class="product-price">S/ 250.00</div>
                             </div>
                             <div class="product-button">
                                 <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank">Inscripciones</a></div>
@@ -2942,7 +2942,7 @@
                             <h6 class="product-title">Curso Derecho Municipal</h6>
                             <div class="product-price-wrap">
                                 <div class="product-price product-price-old">S/. 150</div>
-                                <div class="product-price">S/ 99.00</div>
+                                <div class="product-price">S/ 250.00</div>
                             </div>
                             <div class="product-button">
                                 <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="https://wa.me/message/XRARWDTEQS4DM1" target="_blank">Inscripciones</a></div>
